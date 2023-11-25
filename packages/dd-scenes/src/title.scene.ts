@@ -88,7 +88,7 @@ export class TitleScene extends BaseScene {
 			new FadeEffect(this.clouds, fadeConfig).start(() => {
 				this.playSound(this.settings.audio.gameStartKey);
 				
-				const startScene = new StartScene(this.settings);
+				const startScene = new StartScene(this.settings, this.logger);
 				this.scene.add('START', startScene, false);
 				this.scene.start('START');
 				this.removeSelf();

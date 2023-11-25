@@ -1,5 +1,6 @@
 
-import { Game, GameObjects, Scene } from 'phaser';
+import { Game, GameObjects } from 'phaser';
+import { ProgressBarOptions } from '../options';
 import { Align, HexColorToNumber } from 'phaser-utils';
 
 declare const game: Game;
@@ -64,14 +65,6 @@ export class ProgressBar extends GameObjects.Container {
 	}
 
 	/**
-	 * Call this when a file has completed loading.
-	 * @param value The file that just finished loading.
-	 */
-	public fileProgress(value: Phaser.Loader.File): void {
-
-	}
-
-	/**
 	 * Destroys the resources used by this control.
 	 */
 	public destroy(): void {
@@ -85,20 +78,3 @@ export class ProgressBar extends GameObjects.Container {
 
 }
 
-
-export type ProgressBarOptions = {
-	x: number,
-	y: number,
-	scene: Scene,
-	statusTextFont: string,
-	statusTextColor: string,
-	statusTextSize: number,
-	percentTextFont: string,
-	percentTextColor: string,
-	percentTextSize: number,
-	background: string,
-	barColor: string,
-	width: number,
-	height: number,
-	padding: number, 
-};

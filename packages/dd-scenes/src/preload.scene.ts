@@ -42,7 +42,6 @@ export class PreloadScene extends BaseScene {
 					
 		});
 		this.load.on('progress', this.progressBar.reportProgress, this.progressBar);
-		this.load.on('fileprogress', this.progressBar.fileProgress, this.progressBar);
 		this.load.on('complete', this.progressBar.destroy, this.progressBar);
 		this.load.on('complete', this.complete, this);
 

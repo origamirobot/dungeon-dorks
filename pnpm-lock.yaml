@@ -63,6 +63,9 @@ importers:
       dd-logger:
         specifier: workspace:^
         version: link:../dd-logger
+      dd-models:
+        specifier: workspace:^
+        version: link:../dd-models
       phaser-utils:
         specifier: workspace:^
         version: link:../phaser-utils

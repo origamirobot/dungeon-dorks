@@ -1,5 +1,5 @@
 {
-  "name": "dd-controls",
+  "name": "dd-persist",
   "private": true,
   "description": "",
   "main": "src/index.ts",
@@ -8,8 +8,8 @@
   "license": "ISC",
   "dependencies": {
     "dd-config": "workspace:^",
+    "dd-events": "workspace:^",
     "dd-logger": "workspace:^",
-    "dd-models": "workspace:^",
-    "phaser-utils": "workspace:^"
+    "dd-models": "workspace:^"
   }
 }
