@@ -12,7 +12,7 @@ window.onload = async () => {
 	console.log('[START] Initializing game object');
 
 	const settings = await SettingsService.loadFromJson('/assets/settings.json');
-	const logger = new Logger(settings, console.log);
+	const logger = new Logger(settings);
 	const game = new DDGame(settings, logger);
 
 	if(window != null){

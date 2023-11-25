@@ -1,46 +1,51 @@
-import { Settings, LogLevel } from 'dd-config';
+import { Settings } from 'dd-config';
+import { Logger as TSLogger, ILogObj } from "tslog";
 
 
 export class Logger {
 
+	private log: TSLogger<ILogObj>;
+
 	constructor(
-		private settings: Settings,
-		private logFunction: (message:string, args?:any[]) => void){}
+		private settings: Settings){
+		this.log = new TSLogger({
+			prettyLogTemplate: "{{hh}}:{{MM}}:{{ss}}:{{ms}}\t{{logLevelName}}\t",
+			minLevel: this.settings.game.logLevel,
+			type: 'pretty'
+		});
+
+		}
 
 	/**
 	 * Logs specified debug statement
 	 * @param message the statement to log.
 	 */
-	public debug(message:string, style?: string) : void{
-		if(this.settings.game.logLevel <= LogLevel.DEBUG)
-			this.logFunction(message, [style]);
+	public debug(message:string) : void{
+		this.log.debug(message);
 	}
 
 	/**
 	 * Logs specified info statement
 	 * @param message the statement to log.
 	 */
-	public info(message: string, style?: string): void {
-		if(this.settings.game.logLevel <= LogLevel.INFO)
-			this.logFunction(message, [style])
+	public info(message: string): void {
+		this.log.info(message);
 	}
 
 	/**
 	 * Logs specified warning statement
 	 * @param message the statement to log.
 	 */
-	public warn(message: string, style?: string): void {
-		if(this.settings.game.logLevel <= LogLevel.WARN)
-			this.logFunction(message, [style])
+	public warn(message: string): void {
+		this.log.warn(message);
 	}
 
 	/**
 	 * Logs specified error statement
 	 * @param message the statement to log.
 	 */
-	public error(message: string, style?: string): void {
-		if(this.settings.game.logLevel <= LogLevel.ERROR)
-			this.logFunction(message, [style])
+	public error(message: string): void {
+		this.log.error(message);
 	}
 
 	/**

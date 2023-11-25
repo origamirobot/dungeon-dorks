@@ -26,7 +26,6 @@ export class TitleScene extends BaseScene {
 
 	init(): void {
 		this.logger.debug('[SCENE] Title scene initialized');
-		this.input.keyboard?.addKey(this.settings.controller.startKey);
 		this.input.keyboard?.on(this.settings.controller.startKey, this.continue, this);
 	}
 
@@ -36,7 +35,6 @@ export class TitleScene extends BaseScene {
 	}
 
 	public create(): void {
-		this.logger.debug(this.settings.controller.startKey);
 		this.logger.debug('[SCENE] Title scene creating');
 		this.playMusic('intro-music');
 		var centerX = this.cameras.main.width / 2;

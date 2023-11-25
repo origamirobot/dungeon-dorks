@@ -32,7 +32,7 @@ export class DDGame extends Game {
 			}
 		});
 
-		const bootScene = new BootScene(settings, logger);
+		const bootScene = new BootScene(this.settings, this.logger);
 		this.scene.add('BOOT', bootScene);
 		this.scene.start('BOOT');
 
