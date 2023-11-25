@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "centaur_tan.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 122,
+				"h": 532
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "centaur_tan-left-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 17,
+						"w": 78,
+						"h": 88
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 78,
+						"h": 88
+					}
+				},
+				{
+					"filename": "centaur_tan-down-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 17,
+						"w": 40,
+						"h": 88
+					},
+					"frame": {
+						"x": 81,
+						"y": 1,
+						"w": 40,
+						"h": 88
+					}
+				},
+				{
+					"filename": "centaur_tan-right-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 17,
+						"w": 78,
+						"h": 88
+					},
+					"frame": {
+						"x": 1,
+						"y": 91,
+						"w": 78,
+						"h": 88
+					}
+				},
+				{
+					"filename": "centaur_tan-up-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 17,
+						"w": 40,
+						"h": 88
+					},
+					"frame": {
+						"x": 81,
+						"y": 91,
+						"w": 40,
+						"h": 88
+					}
+				},
+				{
+					"filename": "centaur_tan-left-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 19,
+						"w": 78,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 181,
+						"w": 78,
+						"h": 86
+					}
+				},
+				{
+					"filename": "centaur_tan-down-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 19,
+						"w": 40,
+						"h": 86
+					},
+					"frame": {
+						"x": 81,
+						"y": 181,
+						"w": 40,
+						"h": 86
+					}
+				},
+				{
+					"filename": "centaur_tan-left-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 19,
+						"w": 78,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 269,
+						"w": 78,
+						"h": 86
+					}
+				},
+				{
+					"filename": "centaur_tan-down-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 19,
+						"w": 40,
+						"h": 86
+					},
+					"frame": {
+						"x": 81,
+						"y": 269,
+						"w": 40,
+						"h": 86
+					}
+				},
+				{
+					"filename": "centaur_tan-right-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 19,
+						"w": 78,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 357,
+						"w": 78,
+						"h": 86
+					}
+				},
+				{
+					"filename": "centaur_tan-up-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 19,
+						"w": 40,
+						"h": 86
+					},
+					"frame": {
+						"x": 81,
+						"y": 357,
+						"w": 40,
+						"h": 86
+					}
+				},
+				{
+					"filename": "centaur_tan-right-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 19,
+						"w": 78,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 445,
+						"w": 78,
+						"h": 86
+					}
+				},
+				{
+					"filename": "centaur_tan-up-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 19,
+						"w": 40,
+						"h": 86
+					},
+					"frame": {
+						"x": 81,
+						"y": 445,
+						"w": 40,
+						"h": 86
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d7dca5025e8f91a77b5983037a12a749:40dc3fdcb4a81ac4efe442fabb16266c:5ca81a4c1237f1020536c34e1cdb0b05$"
+	}
+}

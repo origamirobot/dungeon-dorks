@@ -1,0 +1,25 @@
+{
+  "name": "dd-rpg",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "dd-config": "workspace:^",
+    "dd-encounters": "workspace:^",
+    "dd-events": "workspace:^",
+    "dd-logger": "workspace:^",
+    "dd-models": "workspace:^",
+    "dd-scenes": "workspace:^",
+    "phaser-effects": "workspace:^",
+    "phaser-utils": "workspace:^"
+  }
+}

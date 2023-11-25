@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "sick.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 62,
+				"h": 148
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sick-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 16,
+						"w": 41,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 41,
+						"h": 38
+					}
+				},
+				{
+					"filename": "sick-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 4,
+						"w": 17,
+						"h": 53
+					},
+					"frame": {
+						"x": 44,
+						"y": 1,
+						"w": 17,
+						"h": 53
+					}
+				},
+				{
+					"filename": "sick-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 13,
+						"w": 32,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 41,
+						"w": 32,
+						"h": 38
+					}
+				},
+				{
+					"filename": "sick-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 40,
+						"w": 26,
+						"h": 20
+					},
+					"frame": {
+						"x": 35,
+						"y": 56,
+						"w": 26,
+						"h": 20
+					}
+				},
+				{
+					"filename": "sick-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 7,
+						"w": 14,
+						"h": 32
+					},
+					"frame": {
+						"x": 35,
+						"y": 78,
+						"w": 14,
+						"h": 32
+					}
+				},
+				{
+					"filename": "sick-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 10,
+						"w": 29,
+						"h": 35
+					},
+					"frame": {
+						"x": 1,
+						"y": 81,
+						"w": 29,
+						"h": 35
+					}
+				},
+				{
+					"filename": "sick-6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 34,
+						"w": 29,
+						"h": 29
+					},
+					"frame": {
+						"x": 32,
+						"y": 112,
+						"w": 29,
+						"h": 29
+					}
+				},
+				{
+					"filename": "sick-7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 28,
+						"w": 29,
+						"h": 29
+					},
+					"frame": {
+						"x": 1,
+						"y": 118,
+						"w": 29,
+						"h": 29
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b07a001c4ce00152ac9b90b04310f5a3:eb98de0c5d338934efe0cd9edbd618b0:865157246786aabe66cd4c0e0360875e$"
+	}
+}

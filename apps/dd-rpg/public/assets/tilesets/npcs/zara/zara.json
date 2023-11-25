@@ -1,0 +1,524 @@
+{
+	"textures": [
+		{
+			"image": "zara.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 55,
+				"h": 2026
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "zara-agree-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "zara-agree-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 95,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "zara-down-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 4,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 95,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "zara-agree-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 189,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "zara-cry-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 283,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "zara-cry-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 283,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "zara-cry-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 377,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "zara-disagree-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 471,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "zara-disagree-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 565,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "zara-disagree-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 659,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "zara-laugh-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 753,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "zara-laugh-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 847,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "zara-laugh-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 941,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "zara-up-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 4,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 1035,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "zara-down-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 7,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 1129,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "zara-down-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 7,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 1220,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "zara-left-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 7,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 1311,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "zara-right-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 7,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 1402,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "zara-up-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 7,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 1493,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "zara-up-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 7,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 1584,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "zara-left-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 10,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 1675,
+						"w": 47,
+						"h": 86
+					}
+				},
+				{
+					"filename": "zara-left-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 10,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 1763,
+						"w": 47,
+						"h": 86
+					}
+				},
+				{
+					"filename": "zara-right-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 10,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 1851,
+						"w": 47,
+						"h": 86
+					}
+				},
+				{
+					"filename": "zara-right-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 10,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 1939,
+						"w": 47,
+						"h": 86
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8afd1f86552f296914525a6bf80aba98:83687f88f34bbabe175848d97aee374c:9ff59ea05ff308bb417cab9fd69a6f11$"
+	}
+}

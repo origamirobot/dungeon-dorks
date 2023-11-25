@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "cactus.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 412,
+				"h": 426
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cactus-down-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 141,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 116,
+						"h": 139
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 116,
+						"h": 139
+					}
+				},
+				{
+					"filename": "cactus-down-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 141,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 116,
+						"h": 139
+					},
+					"frame": {
+						"x": 119,
+						"y": 1,
+						"w": 116,
+						"h": 139
+					}
+				},
+				{
+					"filename": "cactus-left-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 141,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 86,
+						"h": 139
+					},
+					"frame": {
+						"x": 237,
+						"y": 1,
+						"w": 86,
+						"h": 139
+					}
+				},
+				{
+					"filename": "cactus-left-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 141,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 86,
+						"h": 139
+					},
+					"frame": {
+						"x": 325,
+						"y": 1,
+						"w": 86,
+						"h": 139
+					}
+				},
+				{
+					"filename": "cactus-right-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 141,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 86,
+						"h": 139
+					},
+					"frame": {
+						"x": 1,
+						"y": 142,
+						"w": 86,
+						"h": 139
+					}
+				},
+				{
+					"filename": "cactus-right-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 141,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 86,
+						"h": 139
+					},
+					"frame": {
+						"x": 89,
+						"y": 142,
+						"w": 86,
+						"h": 139
+					}
+				},
+				{
+					"filename": "cactus-up-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 141,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 116,
+						"h": 139
+					},
+					"frame": {
+						"x": 177,
+						"y": 142,
+						"w": 116,
+						"h": 139
+					}
+				},
+				{
+					"filename": "cactus-up-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 141,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 116,
+						"h": 139
+					},
+					"frame": {
+						"x": 295,
+						"y": 142,
+						"w": 116,
+						"h": 139
+					}
+				},
+				{
+					"filename": "cactus-down-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 141,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 8,
+						"w": 116,
+						"h": 142
+					},
+					"frame": {
+						"x": 1,
+						"y": 283,
+						"w": 116,
+						"h": 142
+					}
+				},
+				{
+					"filename": "cactus-left-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 141,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 8,
+						"w": 86,
+						"h": 142
+					},
+					"frame": {
+						"x": 119,
+						"y": 283,
+						"w": 86,
+						"h": 142
+					}
+				},
+				{
+					"filename": "cactus-right-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 141,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 8,
+						"w": 86,
+						"h": 142
+					},
+					"frame": {
+						"x": 207,
+						"y": 283,
+						"w": 86,
+						"h": 142
+					}
+				},
+				{
+					"filename": "cactus-up-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 141,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 8,
+						"w": 116,
+						"h": 142
+					},
+					"frame": {
+						"x": 295,
+						"y": 283,
+						"w": 116,
+						"h": 142
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:be2ecd819ba819ad6a3acacc1b1e30e9:87ba95f831916cadd31b079b4174b6d5:89fc5b9888a56e8bd492060653ac20df$"
+	}
+}

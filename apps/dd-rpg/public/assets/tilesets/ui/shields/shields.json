@@ -1,0 +1,650 @@
+{
+	"textures": [
+		{
+			"image": "shields.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 30,
+				"h": 925
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shield-22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 28,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 28,
+						"h": 32
+					}
+				},
+				{
+					"filename": "shield-24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 28,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 35,
+						"w": 28,
+						"h": 31
+					}
+				},
+				{
+					"filename": "shield-25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 28,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 68,
+						"w": 28,
+						"h": 31
+					}
+				},
+				{
+					"filename": "shield-26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 28,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 101,
+						"w": 28,
+						"h": 31
+					}
+				},
+				{
+					"filename": "shield-27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 26,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 134,
+						"w": 26,
+						"h": 32
+					}
+				},
+				{
+					"filename": "shield-28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 26,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 168,
+						"w": 26,
+						"h": 32
+					}
+				},
+				{
+					"filename": "shield-29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 26,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 202,
+						"w": 26,
+						"h": 32
+					}
+				},
+				{
+					"filename": "shield-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 26,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 236,
+						"w": 26,
+						"h": 32
+					}
+				},
+				{
+					"filename": "shield-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 26,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 270,
+						"w": 26,
+						"h": 32
+					}
+				},
+				{
+					"filename": "shield-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 26,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 304,
+						"w": 26,
+						"h": 31
+					}
+				},
+				{
+					"filename": "shield-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 26,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 337,
+						"w": 26,
+						"h": 31
+					}
+				},
+				{
+					"filename": "shield-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 26,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 370,
+						"w": 26,
+						"h": 30
+					}
+				},
+				{
+					"filename": "shield-23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 26,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 402,
+						"w": 26,
+						"h": 30
+					}
+				},
+				{
+					"filename": "shield-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 26,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 434,
+						"w": 26,
+						"h": 30
+					}
+				},
+				{
+					"filename": "shield-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 26,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 466,
+						"w": 26,
+						"h": 30
+					}
+				},
+				{
+					"filename": "shield-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 28
+					},
+					"frame": {
+						"x": 1,
+						"y": 498,
+						"w": 26,
+						"h": 28
+					}
+				},
+				{
+					"filename": "shield-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 26,
+						"h": 28
+					},
+					"frame": {
+						"x": 1,
+						"y": 528,
+						"w": 26,
+						"h": 28
+					}
+				},
+				{
+					"filename": "shield-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 26,
+						"h": 28
+					},
+					"frame": {
+						"x": 1,
+						"y": 558,
+						"w": 26,
+						"h": 28
+					}
+				},
+				{
+					"filename": "shield-17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 24,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 588,
+						"w": 24,
+						"h": 31
+					}
+				},
+				{
+					"filename": "shield-20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 24,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 621,
+						"w": 24,
+						"h": 31
+					}
+				},
+				{
+					"filename": "shield-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 24,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 654,
+						"w": 24,
+						"h": 30
+					}
+				},
+				{
+					"filename": "shield-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 24,
+						"h": 28
+					},
+					"frame": {
+						"x": 1,
+						"y": 686,
+						"w": 24,
+						"h": 28
+					}
+				},
+				{
+					"filename": "shield-19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 24,
+						"h": 28
+					},
+					"frame": {
+						"x": 1,
+						"y": 716,
+						"w": 24,
+						"h": 28
+					}
+				},
+				{
+					"filename": "shield-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 24,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 746,
+						"w": 24,
+						"h": 24
+					}
+				},
+				{
+					"filename": "shield-18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 24,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 772,
+						"w": 24,
+						"h": 24
+					}
+				},
+				{
+					"filename": "shield-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 24,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 798,
+						"w": 24,
+						"h": 24
+					}
+				},
+				{
+					"filename": "shield-21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 26
+					},
+					"frame": {
+						"x": 1,
+						"y": 824,
+						"w": 22,
+						"h": 26
+					}
+				},
+				{
+					"filename": "shield-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 852,
+						"w": 22,
+						"h": 24
+					}
+				},
+				{
+					"filename": "shield-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 878,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "shield-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 902,
+						"w": 22,
+						"h": 22
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4c1abcbf519384ea333822c5e205132f:af99d0fa417a783232250eb58dac26a6:7138abc1a38bacf90f1790eaa52a78c0$"
+	}
+}

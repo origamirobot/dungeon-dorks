@@ -1,0 +1,24 @@
+{
+	"preload": {
+	  "files": [
+		{
+			"type": "bitmapFont",
+			"key": "menu-selected-font",
+			"textureURL": "assets/fonts/menu-selected-font.png",
+			"fontDataURL": "assets/fonts/menu-selected-font.xml"
+		},
+		{
+			"type": "bitmapFont",
+			"key": "menu-unselected-font",
+			"textureURL": "assets/fonts/menu-unselected-font.png",
+			"fontDataURL": "assets/fonts/menu-unselected-font.xml"
+		},
+		{
+			"type": "spritesheet",
+			"key": "items",
+			"url": "assets/tilesets/items.png", 
+			"frameConfig": { "frameWidth": 32, "frameHeight": 32 } 
+		}
+	  ]
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"preload": {
+	  "files": [
+			{ "type": "tilemapTiledJSON", "key": "sparklehouse_1", "url": "assets/tilemaps/sparklehouse.1.map.json" },
+			{ "type": "image", "key": "master_tileset", "url": "assets/tilesets/master.png" }
+		]
+	}
+}

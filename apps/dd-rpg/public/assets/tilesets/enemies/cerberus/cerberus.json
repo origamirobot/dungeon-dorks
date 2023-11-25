@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "ceberus.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 320,
+				"h": 215
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cerberus-left-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 41,
+						"w": 88,
+						"h": 65
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 88,
+						"h": 65
+					}
+				},
+				{
+					"filename": "cerberus-right-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 41,
+						"w": 88,
+						"h": 65
+					},
+					"frame": {
+						"x": 91,
+						"y": 1,
+						"w": 88,
+						"h": 65
+					}
+				},
+				{
+					"filename": "cerberus-up-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 33,
+						"w": 68,
+						"h": 73
+					},
+					"frame": {
+						"x": 181,
+						"y": 1,
+						"w": 68,
+						"h": 73
+					}
+				},
+				{
+					"filename": "cerberus-left-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 43,
+						"w": 88,
+						"h": 63
+					},
+					"frame": {
+						"x": 1,
+						"y": 68,
+						"w": 88,
+						"h": 63
+					}
+				},
+				{
+					"filename": "cerberus-down-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 35,
+						"w": 68,
+						"h": 71
+					},
+					"frame": {
+						"x": 91,
+						"y": 68,
+						"w": 68,
+						"h": 71
+					}
+				},
+				{
+					"filename": "cerberus-left-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 43,
+						"w": 88,
+						"h": 63
+					},
+					"frame": {
+						"x": 1,
+						"y": 133,
+						"w": 88,
+						"h": 63
+					}
+				},
+				{
+					"filename": "cerberus-right-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 43,
+						"w": 88,
+						"h": 63
+					},
+					"frame": {
+						"x": 161,
+						"y": 76,
+						"w": 88,
+						"h": 63
+					}
+				},
+				{
+					"filename": "cerberus-right-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 43,
+						"w": 88,
+						"h": 63
+					},
+					"frame": {
+						"x": 91,
+						"y": 141,
+						"w": 88,
+						"h": 63
+					}
+				},
+				{
+					"filename": "cerberus-up-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 35,
+						"w": 68,
+						"h": 71
+					},
+					"frame": {
+						"x": 181,
+						"y": 141,
+						"w": 68,
+						"h": 71
+					}
+				},
+				{
+					"filename": "cerberus-up-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 35,
+						"w": 68,
+						"h": 71
+					},
+					"frame": {
+						"x": 251,
+						"y": 1,
+						"w": 68,
+						"h": 71
+					}
+				},
+				{
+					"filename": "cerberus-down-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 37,
+						"w": 68,
+						"h": 69
+					},
+					"frame": {
+						"x": 251,
+						"y": 74,
+						"w": 68,
+						"h": 69
+					}
+				},
+				{
+					"filename": "cerberus-down-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 37,
+						"w": 68,
+						"h": 69
+					},
+					"frame": {
+						"x": 251,
+						"y": 145,
+						"w": 68,
+						"h": 69
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d6402f40907e8c9f9959fdeefc93ee00:81b15308b8ca2fd9b48999a82c1c51c7:5dce69b11e48f65be8b44a0981539354$"
+	}
+}

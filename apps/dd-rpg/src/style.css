@@ -1,0 +1,106 @@
+@font-face{
+	font-family:"connection";
+	src: url("/assets/fonts/connection/connection.ttf") format("truetype")
+}
+
+@font-face{
+	font-family:'04b_03'; 
+	src: url("/assets/fonts/04b03/04b03.woff2");
+	src: url("/assets/fonts/04b03/04b03.ttf") format("truetype");
+	font-weight:normal;
+	font-style:normal
+}
+
+@font-face{
+	font-family:'mister_pixel'; 
+	src: url("/assets/fonts/mister-pixel/mister-pixel-regular.otf");
+	font-weight:normal;
+	font-style:normal
+}
+
+@font-face{
+	font-family:'arcade_classic'; 
+	src: url("/assets/arcade-classic/arcade-classic.woff2");
+	src: url("/assets/fonts/arcade-classic/arcade-classic.ttf") format("truetype");
+	font-weight:normal;
+	font-style:normal
+}
+
+@font-face{
+	font-family:'pixel_verdana'; 
+	src: url("/assets/fonts/pixel-verdana/PixelFJVerdana12pt.ttf") format("truetype");
+	font-weight:normal;
+	font-style:normal
+}
+
+
+@font-face {
+    font-family: 'DisposableDroid BB';
+    src: url('/assets/fonts/disposable-droid/DisposableDroidBB-Italic.eot');
+    src: url('/assets/fonts/disposable-droid/DisposableDroidBB-Italic.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/disposable-droid/DisposableDroidBB-Italic.woff2') format('woff2'),
+         url('/assets/fonts/disposable-droid/DisposableDroidBB-Italic.woff') format('woff'),
+         url('/assets/fonts/disposable-droid/DisposableDroidBB-Italic.svg#DisposableDroidBB-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DisposableDroid BB';
+    src: url('/assets/fonts/disposable-droid/DisposableDroidBB-BoldItalic.eot');
+    src: url('/assets/fonts/disposable-droid/DisposableDroidBB-BoldItalic.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/disposable-droid/DisposableDroidBB-BoldItalic.woff2') format('woff2'),
+         url('/assets/fonts/disposable-droid/DisposableDroidBB-BoldItalic.woff') format('woff'),
+         url('/assets/fonts/disposable-droid/DisposableDroidBB-BoldItalic.svg#DisposableDroidBB-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DisposableDroid BB';
+    src: url('/assets/fonts/disposable-droid/DisposableDroidBB-Bold.eot');
+    src: url('/assets/fonts/disposable-droid/DisposableDroidBB-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/disposable-droid/DisposableDroidBB-Bold.woff2') format('woff2'),
+        url('/assets/fonts/disposable-droid/DisposableDroidBB-Bold.woff') format('woff'),
+        url('/assets/fonts/disposable-droid/DisposableDroidBB-Bold.svg#DisposableDroidBB-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DisposableDroid BB';
+    src: url('/assets/fonts/disposable-droid/DisposableDroidBB.eot');
+    src: url('/assets/fonts/disposable-droid/DisposableDroidBB.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/disposable-droid/DisposableDroidBB.woff2') format('woff2'),
+        url('/assets/fonts/disposable-droid/DisposableDroidBB.woff') format('woff'),
+        url('/assets/fonts/disposable-droid/DisposableDroidBB.svg#DisposableDroidBB') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+body{
+	font-size:10px;
+	color:black;
+	background-color:#ffffff
+}
+
+body div.container{
+	text-align:center
+}
+
+body div.container h1{
+	font-family:"Connection",cursive;padding:0;font-size:50px
+}
+
+body div.container div#game{
+	display:block;margin-left:auto;margin-right:auto
+}
+
+
+body { background: #000; }
+
+
+#resizeCanvas { position: absolute; top:-1000px;  }

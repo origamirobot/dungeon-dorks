@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "centaur_grey.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 122,
+				"h": 520
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "centaur_grey-left-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 19,
+						"w": 78,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 78,
+						"h": 86
+					}
+				},
+				{
+					"filename": "centaur_grey-down-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 19,
+						"w": 40,
+						"h": 86
+					},
+					"frame": {
+						"x": 81,
+						"y": 1,
+						"w": 40,
+						"h": 86
+					}
+				},
+				{
+					"filename": "centaur_grey-right-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 19,
+						"w": 78,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 89,
+						"w": 78,
+						"h": 86
+					}
+				},
+				{
+					"filename": "centaur_grey-up-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 19,
+						"w": 40,
+						"h": 86
+					},
+					"frame": {
+						"x": 81,
+						"y": 89,
+						"w": 40,
+						"h": 86
+					}
+				},
+				{
+					"filename": "centaur_grey-left-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 21,
+						"w": 78,
+						"h": 84
+					},
+					"frame": {
+						"x": 1,
+						"y": 177,
+						"w": 78,
+						"h": 84
+					}
+				},
+				{
+					"filename": "centaur_grey-down-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 21,
+						"w": 40,
+						"h": 84
+					},
+					"frame": {
+						"x": 81,
+						"y": 177,
+						"w": 40,
+						"h": 84
+					}
+				},
+				{
+					"filename": "centaur_grey-left-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 21,
+						"w": 78,
+						"h": 84
+					},
+					"frame": {
+						"x": 1,
+						"y": 263,
+						"w": 78,
+						"h": 84
+					}
+				},
+				{
+					"filename": "centaur_grey-down-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 21,
+						"w": 40,
+						"h": 84
+					},
+					"frame": {
+						"x": 81,
+						"y": 263,
+						"w": 40,
+						"h": 84
+					}
+				},
+				{
+					"filename": "centaur_grey-right-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 21,
+						"w": 78,
+						"h": 84
+					},
+					"frame": {
+						"x": 1,
+						"y": 349,
+						"w": 78,
+						"h": 84
+					}
+				},
+				{
+					"filename": "centaur_grey-up-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 21,
+						"w": 40,
+						"h": 84
+					},
+					"frame": {
+						"x": 81,
+						"y": 349,
+						"w": 40,
+						"h": 84
+					}
+				},
+				{
+					"filename": "centaur_grey-right-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 21,
+						"w": 78,
+						"h": 84
+					},
+					"frame": {
+						"x": 1,
+						"y": 435,
+						"w": 78,
+						"h": 84
+					}
+				},
+				{
+					"filename": "centaur_grey-up-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 21,
+						"w": 40,
+						"h": 84
+					},
+					"frame": {
+						"x": 81,
+						"y": 435,
+						"w": 40,
+						"h": 84
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0bc5ceae3d8e99dd3232ce00d3f9e4bf:37d24f951fbbf32fdda1def867f1e085:d3c4d32274998ba39273e2c29c1e3a7b$"
+	}
+}

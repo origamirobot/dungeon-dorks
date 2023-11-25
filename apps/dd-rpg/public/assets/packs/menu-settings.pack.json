@@ -1,0 +1,48 @@
+{
+	"preload": {
+	  "files": [
+		{
+			"type": "bitmapFont",
+			"key": "menu-selected-font",
+			"textureURL": "assets/fonts/menu-selected-font.png",
+			"fontDataURL": "assets/fonts/menu-selected-font.xml"
+		},
+		{
+			"type": "bitmapFont",
+			"key": "menu-unselected-font",
+			"textureURL": "assets/fonts/menu-unselected-font.png",
+			"fontDataURL": "assets/fonts/menu-unselected-font.xml"
+		},
+		{
+			"type": "image",
+			"key": "arsis",
+			"url": "assets/images/arsis.face.png"
+		},
+		{
+			"type": "image",
+			"key": "locke",
+			"url": "assets/images/locke.face.png"
+		},
+		{
+			"type": "image",
+			"key": "moira",
+			"url": "assets/images/moira.face.png"
+		},
+		{
+			"type": "image",
+			"key": "morvan",
+			"url": "assets/images/morvan.face.png"
+		},
+		{
+			"type": "image",
+			"key": "rubeas",
+			"url": "assets/images/rubeas.face.png"
+		},
+		{
+			"type": "image",
+			"key": "tachius",
+			"url": "assets/images/tachius.face.png"
+		}
+	  ]
+	}
+}

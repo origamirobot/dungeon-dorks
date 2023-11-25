@@ -1,0 +1,335 @@
+{
+	"textures": [
+		{
+			"image": "elements.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 118,
+				"h": 124
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lightning.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 32
+					}
+				},
+				{
+					"filename": "earth.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 31,
+						"h": 30
+					},
+					"frame": {
+						"x": 33,
+						"y": 1,
+						"w": 31,
+						"h": 30
+					}
+				},
+				{
+					"filename": "blaze.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 35,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "leaves.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 33,
+						"y": 33,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "storm.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 66,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "blizzard.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 30,
+						"h": 28
+					},
+					"frame": {
+						"x": 1,
+						"y": 67,
+						"w": 30,
+						"h": 28
+					}
+				},
+				{
+					"filename": "stone.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 1,
+						"y": 97,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "thunder.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 30,
+						"h": 28
+					},
+					"frame": {
+						"x": 33,
+						"y": 65,
+						"w": 30,
+						"h": 28
+					}
+				},
+				{
+					"filename": "blast.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 28
+					},
+					"frame": {
+						"x": 33,
+						"y": 95,
+						"w": 28,
+						"h": 28
+					}
+				},
+				{
+					"filename": "ice.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 28
+					},
+					"frame": {
+						"x": 63,
+						"y": 95,
+						"w": 28,
+						"h": 28
+					}
+				},
+				{
+					"filename": "rain.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 26,
+						"h": 28
+					},
+					"frame": {
+						"x": 65,
+						"y": 33,
+						"w": 26,
+						"h": 28
+					}
+				},
+				{
+					"filename": "vine.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 20,
+						"h": 30
+					},
+					"frame": {
+						"x": 65,
+						"y": 63,
+						"w": 20,
+						"h": 30
+					}
+				},
+				{
+					"filename": "tangle.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 24,
+						"h": 28
+					},
+					"frame": {
+						"x": 93,
+						"y": 33,
+						"w": 24,
+						"h": 28
+					}
+				},
+				{
+					"filename": "fireball.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 26,
+						"h": 20
+					},
+					"frame": {
+						"x": 87,
+						"y": 63,
+						"w": 26,
+						"h": 20
+					}
+				},
+				{
+					"filename": "rock.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 24,
+						"h": 22
+					},
+					"frame": {
+						"x": 93,
+						"y": 85,
+						"w": 24,
+						"h": 22
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:eca637f34d6c30b97da285be717f6303:f746971a70bbcc5ab22dcd5936bbc493:5b2f3c13e8b86e4c74f43dc8b276d9b9$"
+	}
+}

@@ -1,0 +1,1574 @@
+{
+	"textures": [
+		{
+			"image": "items.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 531,
+				"h": 128
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "armor-37",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "armor-45",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 35,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "armor-47",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 69,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "armor-14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 30,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 103,
+						"w": 30,
+						"h": 24
+					}
+				},
+				{
+					"filename": "armor-15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 30,
+						"h": 24
+					},
+					"frame": {
+						"x": 33,
+						"y": 103,
+						"w": 30,
+						"h": 24
+					}
+				},
+				{
+					"filename": "broad-sword",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 35,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "crystal-sword",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 35,
+						"y": 35,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "great-sword",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 35,
+						"y": 69,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "armor-25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 30,
+						"h": 24
+					},
+					"frame": {
+						"x": 65,
+						"y": 103,
+						"w": 30,
+						"h": 24
+					}
+				},
+				{
+					"filename": "ice-sword",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 69,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "long-sword",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 69,
+						"y": 35,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "blaze-sword",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 32
+					},
+					"frame": {
+						"x": 69,
+						"y": 69,
+						"w": 31,
+						"h": 32
+					}
+				},
+				{
+					"filename": "armor-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 26,
+						"h": 24
+					},
+					"frame": {
+						"x": 97,
+						"y": 103,
+						"w": 26,
+						"h": 24
+					}
+				},
+				{
+					"filename": "claymore",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 31,
+						"h": 32
+					},
+					"frame": {
+						"x": 102,
+						"y": 69,
+						"w": 31,
+						"h": 32
+					}
+				},
+				{
+					"filename": "armor-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 26,
+						"h": 24
+					},
+					"frame": {
+						"x": 125,
+						"y": 103,
+						"w": 26,
+						"h": 24
+					}
+				},
+				{
+					"filename": "falchion",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 31,
+						"h": 32
+					},
+					"frame": {
+						"x": 103,
+						"y": 1,
+						"w": 31,
+						"h": 32
+					}
+				},
+				{
+					"filename": "fire-sword",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 32
+					},
+					"frame": {
+						"x": 103,
+						"y": 35,
+						"w": 31,
+						"h": 32
+					}
+				},
+				{
+					"filename": "armor-30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 32,
+						"h": 31
+					},
+					"frame": {
+						"x": 135,
+						"y": 69,
+						"w": 32,
+						"h": 31
+					}
+				},
+				{
+					"filename": "scabbard",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 24,
+						"h": 24
+					},
+					"frame": {
+						"x": 153,
+						"y": 102,
+						"w": 24,
+						"h": 24
+					}
+				},
+				{
+					"filename": "armor-33",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 32,
+						"h": 31
+					},
+					"frame": {
+						"x": 136,
+						"y": 1,
+						"w": 32,
+						"h": 31
+					}
+				},
+				{
+					"filename": "armor-34",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 32,
+						"h": 31
+					},
+					"frame": {
+						"x": 136,
+						"y": 34,
+						"w": 32,
+						"h": 31
+					}
+				},
+				{
+					"filename": "armor-36",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 32,
+						"h": 31
+					},
+					"frame": {
+						"x": 169,
+						"y": 67,
+						"w": 32,
+						"h": 31
+					}
+				},
+				{
+					"filename": "armor-32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 32,
+						"h": 26
+					},
+					"frame": {
+						"x": 179,
+						"y": 100,
+						"w": 32,
+						"h": 26
+					}
+				},
+				{
+					"filename": "armor-38",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 32,
+						"h": 31
+					},
+					"frame": {
+						"x": 170,
+						"y": 1,
+						"w": 32,
+						"h": 31
+					}
+				},
+				{
+					"filename": "rapier",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 31
+					},
+					"frame": {
+						"x": 170,
+						"y": 34,
+						"w": 31,
+						"h": 31
+					}
+				},
+				{
+					"filename": "armor-26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 31
+					},
+					"frame": {
+						"x": 203,
+						"y": 34,
+						"w": 30,
+						"h": 31
+					}
+				},
+				{
+					"filename": "armor-27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 31
+					},
+					"frame": {
+						"x": 204,
+						"y": 1,
+						"w": 30,
+						"h": 31
+					}
+				},
+				{
+					"filename": "armor-28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 31
+					},
+					"frame": {
+						"x": 203,
+						"y": 67,
+						"w": 30,
+						"h": 31
+					}
+				},
+				{
+					"filename": "armor-35",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 32,
+						"h": 26
+					},
+					"frame": {
+						"x": 213,
+						"y": 100,
+						"w": 32,
+						"h": 26
+					}
+				},
+				{
+					"filename": "armor-29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 31
+					},
+					"frame": {
+						"x": 235,
+						"y": 34,
+						"w": 30,
+						"h": 31
+					}
+				},
+				{
+					"filename": "armor-31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 31
+					},
+					"frame": {
+						"x": 236,
+						"y": 1,
+						"w": 30,
+						"h": 31
+					}
+				},
+				{
+					"filename": "armor-21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 32,
+						"h": 30
+					},
+					"frame": {
+						"x": 235,
+						"y": 67,
+						"w": 32,
+						"h": 30
+					}
+				},
+				{
+					"filename": "armor-40",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 32,
+						"h": 28
+					},
+					"frame": {
+						"x": 247,
+						"y": 99,
+						"w": 32,
+						"h": 28
+					}
+				},
+				{
+					"filename": "armor-22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 32,
+						"h": 30
+					},
+					"frame": {
+						"x": 267,
+						"y": 34,
+						"w": 32,
+						"h": 30
+					}
+				},
+				{
+					"filename": "armor-23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 32,
+						"h": 30
+					},
+					"frame": {
+						"x": 269,
+						"y": 66,
+						"w": 32,
+						"h": 30
+					}
+				},
+				{
+					"filename": "armor-39",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 28
+					},
+					"frame": {
+						"x": 281,
+						"y": 98,
+						"w": 26,
+						"h": 28
+					}
+				},
+				{
+					"filename": "armor-46",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 32,
+						"h": 30
+					},
+					"frame": {
+						"x": 268,
+						"y": 1,
+						"w": 32,
+						"h": 30
+					}
+				},
+				{
+					"filename": "wooden-sword",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 28,
+						"h": 30
+					},
+					"frame": {
+						"x": 301,
+						"y": 33,
+						"w": 28,
+						"h": 30
+					}
+				},
+				{
+					"filename": "armor-16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 24,
+						"h": 30
+					},
+					"frame": {
+						"x": 302,
+						"y": 1,
+						"w": 24,
+						"h": 30
+					}
+				},
+				{
+					"filename": "armor-17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 24,
+						"h": 30
+					},
+					"frame": {
+						"x": 328,
+						"y": 1,
+						"w": 24,
+						"h": 30
+					}
+				},
+				{
+					"filename": "armor-18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 28
+					},
+					"frame": {
+						"x": 303,
+						"y": 65,
+						"w": 22,
+						"h": 28
+					}
+				},
+				{
+					"filename": "armor-19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 28
+					},
+					"frame": {
+						"x": 309,
+						"y": 95,
+						"w": 22,
+						"h": 28
+					}
+				},
+				{
+					"filename": "armor-20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 28
+					},
+					"frame": {
+						"x": 327,
+						"y": 65,
+						"w": 22,
+						"h": 28
+					}
+				},
+				{
+					"filename": "armor-8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 28
+					},
+					"frame": {
+						"x": 331,
+						"y": 33,
+						"w": 22,
+						"h": 28
+					}
+				},
+				{
+					"filename": "armor-9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 28
+					},
+					"frame": {
+						"x": 354,
+						"y": 1,
+						"w": 22,
+						"h": 28
+					}
+				},
+				{
+					"filename": "armor-41",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 32,
+						"h": 26
+					},
+					"frame": {
+						"x": 333,
+						"y": 95,
+						"w": 32,
+						"h": 26
+					}
+				},
+				{
+					"filename": "armor-42",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 32,
+						"h": 26
+					},
+					"frame": {
+						"x": 351,
+						"y": 63,
+						"w": 32,
+						"h": 26
+					}
+				},
+				{
+					"filename": "armor-43",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 32,
+						"h": 26
+					},
+					"frame": {
+						"x": 355,
+						"y": 31,
+						"w": 32,
+						"h": 26
+					}
+				},
+				{
+					"filename": "armor-44",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 32,
+						"h": 26
+					},
+					"frame": {
+						"x": 378,
+						"y": 1,
+						"w": 32,
+						"h": 26
+					}
+				},
+				{
+					"filename": "armor-10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 30,
+						"h": 26
+					},
+					"frame": {
+						"x": 367,
+						"y": 91,
+						"w": 30,
+						"h": 26
+					}
+				},
+				{
+					"filename": "armor-11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 30,
+						"h": 26
+					},
+					"frame": {
+						"x": 385,
+						"y": 59,
+						"w": 30,
+						"h": 26
+					}
+				},
+				{
+					"filename": "armor-12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 30,
+						"h": 26
+					},
+					"frame": {
+						"x": 389,
+						"y": 29,
+						"w": 30,
+						"h": 26
+					}
+				},
+				{
+					"filename": "armor-13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 30,
+						"h": 26
+					},
+					"frame": {
+						"x": 412,
+						"y": 1,
+						"w": 30,
+						"h": 26
+					}
+				},
+				{
+					"filename": "armor-7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 30,
+						"h": 26
+					},
+					"frame": {
+						"x": 399,
+						"y": 87,
+						"w": 30,
+						"h": 26
+					}
+				},
+				{
+					"filename": "armor-6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 26
+					},
+					"frame": {
+						"x": 417,
+						"y": 57,
+						"w": 22,
+						"h": 26
+					}
+				},
+				{
+					"filename": "armor-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 24
+					},
+					"frame": {
+						"x": 421,
+						"y": 29,
+						"w": 22,
+						"h": 24
+					}
+				},
+				{
+					"filename": "armor-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 24
+					},
+					"frame": {
+						"x": 444,
+						"y": 1,
+						"w": 22,
+						"h": 24
+					}
+				},
+				{
+					"filename": "elixer-large",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 19,
+						"h": 24
+					},
+					"frame": {
+						"x": 431,
+						"y": 85,
+						"w": 19,
+						"h": 24
+					}
+				},
+				{
+					"filename": "ether-large",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 19,
+						"h": 24
+					},
+					"frame": {
+						"x": 441,
+						"y": 55,
+						"w": 19,
+						"h": 24
+					}
+				},
+				{
+					"filename": "potion-large",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 19,
+						"h": 24
+					},
+					"frame": {
+						"x": 445,
+						"y": 27,
+						"w": 19,
+						"h": 24
+					}
+				},
+				{
+					"filename": "remedy",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 4,
+						"w": 16,
+						"h": 24
+					},
+					"frame": {
+						"x": 452,
+						"y": 81,
+						"w": 16,
+						"h": 24
+					}
+				},
+				{
+					"filename": "armor-24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 30,
+						"h": 20
+					},
+					"frame": {
+						"x": 452,
+						"y": 107,
+						"w": 30,
+						"h": 20
+					}
+				},
+				{
+					"filename": "elixer-medium",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 4,
+						"w": 14,
+						"h": 24
+					},
+					"frame": {
+						"x": 462,
+						"y": 53,
+						"w": 14,
+						"h": 24
+					}
+				},
+				{
+					"filename": "ether-medium",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 4,
+						"w": 14,
+						"h": 24
+					},
+					"frame": {
+						"x": 466,
+						"y": 27,
+						"w": 14,
+						"h": 24
+					}
+				},
+				{
+					"filename": "potion-medium",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 4,
+						"w": 14,
+						"h": 24
+					},
+					"frame": {
+						"x": 468,
+						"y": 1,
+						"w": 14,
+						"h": 24
+					}
+				},
+				{
+					"filename": "sleeping-bag",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 22,
+						"h": 23
+					},
+					"frame": {
+						"x": 470,
+						"y": 79,
+						"w": 22,
+						"h": 23
+					}
+				},
+				{
+					"filename": "tent",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 21,
+						"h": 23
+					},
+					"frame": {
+						"x": 484,
+						"y": 104,
+						"w": 21,
+						"h": 23
+					}
+				},
+				{
+					"filename": "antidote",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 17,
+						"h": 23
+					},
+					"frame": {
+						"x": 478,
+						"y": 53,
+						"w": 17,
+						"h": 23
+					}
+				},
+				{
+					"filename": "armor-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 26,
+						"h": 22
+					},
+					"frame": {
+						"x": 494,
+						"y": 78,
+						"w": 26,
+						"h": 22
+					}
+				},
+				{
+					"filename": "dagger",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 507,
+						"y": 102,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "elixer-small",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 482,
+						"y": 27,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "ether-small",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 484,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "potion-small",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 508,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "armor-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 26,
+						"h": 20
+					},
+					"frame": {
+						"x": 497,
+						"y": 51,
+						"w": 26,
+						"h": 20
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f6c100927f17cf06e07e43aace0ad78d:0c9db2cf1790b67d8e51ac035f495e45:110e074689c9edd2c54833ce2e4d9270$"
+	}
+}

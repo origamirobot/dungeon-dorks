@@ -1,0 +1,608 @@
+{
+	"textures": [
+		{
+			"image": "lightning.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 128,
+				"h": 834
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lightning-advanced-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 71,
+						"w": 107,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 107,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lightning-advanced-7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 77,
+						"w": 14,
+						"h": 32
+					},
+					"frame": {
+						"x": 110,
+						"y": 1,
+						"w": 14,
+						"h": 32
+					}
+				},
+				{
+					"filename": "lightning-advanced-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 68,
+						"w": 92,
+						"h": 53
+					},
+					"frame": {
+						"x": 1,
+						"y": 50,
+						"w": 92,
+						"h": 53
+					}
+				},
+				{
+					"filename": "lightning-advanced-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 65,
+						"w": 32,
+						"h": 62
+					},
+					"frame": {
+						"x": 95,
+						"y": 50,
+						"w": 32,
+						"h": 62
+					}
+				},
+				{
+					"filename": "lightning-expert-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 32,
+						"w": 80,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 105,
+						"w": 80,
+						"h": 122
+					}
+				},
+				{
+					"filename": "lightning-beginner-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 68,
+						"w": 44,
+						"h": 41
+					},
+					"frame": {
+						"x": 83,
+						"y": 114,
+						"w": 44,
+						"h": 41
+					}
+				},
+				{
+					"filename": "lightning-advanced-6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 53,
+						"w": 41,
+						"h": 83
+					},
+					"frame": {
+						"x": 83,
+						"y": 157,
+						"w": 41,
+						"h": 83
+					}
+				},
+				{
+					"filename": "lightning-expert-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 32,
+						"w": 74,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 229,
+						"w": 74,
+						"h": 122
+					}
+				},
+				{
+					"filename": "lightning-intermediate-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 65,
+						"w": 50,
+						"h": 56
+					},
+					"frame": {
+						"x": 77,
+						"y": 242,
+						"w": 50,
+						"h": 56
+					}
+				},
+				{
+					"filename": "lightning-intermediate-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 65,
+						"w": 50,
+						"h": 53
+					},
+					"frame": {
+						"x": 77,
+						"y": 300,
+						"w": 50,
+						"h": 53
+					}
+				},
+				{
+					"filename": "lightning-expert-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 35,
+						"w": 71,
+						"h": 119
+					},
+					"frame": {
+						"x": 1,
+						"y": 353,
+						"w": 71,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lightning-expert-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 32,
+						"w": 53,
+						"h": 125
+					},
+					"frame": {
+						"x": 74,
+						"y": 355,
+						"w": 53,
+						"h": 125
+					}
+				},
+				{
+					"filename": "lightning-expert-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 32,
+						"w": 65,
+						"h": 125
+					},
+					"frame": {
+						"x": 1,
+						"y": 474,
+						"w": 65,
+						"h": 125
+					}
+				},
+				{
+					"filename": "lightning-intermediate-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 74,
+						"w": 56,
+						"h": 47
+					},
+					"frame": {
+						"x": 68,
+						"y": 482,
+						"w": 56,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lightning-intermediate-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 68,
+						"w": 53,
+						"h": 50
+					},
+					"frame": {
+						"x": 68,
+						"y": 531,
+						"w": 53,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lightning-beginner-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 65,
+						"w": 53,
+						"h": 44
+					},
+					"frame": {
+						"x": 68,
+						"y": 583,
+						"w": 53,
+						"h": 44
+					}
+				},
+				{
+					"filename": "lightning-expert-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 38,
+						"w": 62,
+						"h": 119
+					},
+					"frame": {
+						"x": 1,
+						"y": 601,
+						"w": 62,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lightning-advanced-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 59,
+						"w": 62,
+						"h": 77
+					},
+					"frame": {
+						"x": 65,
+						"y": 629,
+						"w": 62,
+						"h": 77
+					}
+				},
+				{
+					"filename": "lightning-intermediate-6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 68,
+						"w": 50,
+						"h": 50
+					},
+					"frame": {
+						"x": 65,
+						"y": 708,
+						"w": 50,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lightning-intermediate-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 71,
+						"w": 47,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 722,
+						"w": 47,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lightning-advanced-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 119,
+						"y": 71,
+						"w": 26,
+						"h": 50
+					},
+					"frame": {
+						"x": 1,
+						"y": 771,
+						"w": 26,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lightning-beginner-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 62,
+						"w": 35,
+						"h": 47
+					},
+					"frame": {
+						"x": 29,
+						"y": 771,
+						"w": 35,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lightning-beginner-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 77,
+						"w": 29,
+						"h": 29
+					},
+					"frame": {
+						"x": 66,
+						"y": 760,
+						"w": 29,
+						"h": 29
+					}
+				},
+				{
+					"filename": "lightning-intermediate-7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 86,
+						"w": 29,
+						"h": 20
+					},
+					"frame": {
+						"x": 97,
+						"y": 760,
+						"w": 29,
+						"h": 20
+					}
+				},
+				{
+					"filename": "lightning-advanced-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 116,
+						"y": 77,
+						"w": 26,
+						"h": 29
+					},
+					"frame": {
+						"x": 97,
+						"y": 782,
+						"w": 26,
+						"h": 29
+					}
+				},
+				{
+					"filename": "lightning-beginner-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 80,
+						"w": 23,
+						"h": 20
+					},
+					"frame": {
+						"x": 66,
+						"y": 813,
+						"w": 23,
+						"h": 20
+					}
+				},
+				{
+					"filename": "lightning-beginner-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 83,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 66,
+						"y": 791,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "lightning-intermediate-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 83,
+						"w": 23,
+						"h": 17
+					},
+					"frame": {
+						"x": 91,
+						"y": 813,
+						"w": 23,
+						"h": 17
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2092fd4e45018ddfea1e04ecdaa2a7ae:620aed53767006cb6991f9595b133d4a:25be3648ac3d733248850a03c6feeca1$"
+	}
+}

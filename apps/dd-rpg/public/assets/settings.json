@@ -1,0 +1,129 @@
+{
+	"game":{
+		"debug": true,
+		"width": 800,
+		"height": 600,
+		"zoom": 1,
+		"title": "Dungeon Dorks",
+		"font": "DisposableDroid BB",
+		"version": "1.0.0",
+		"fullScreen": true,
+		"showCollisionBox": true,
+		"delayLoading": 1000,
+		"framesPerSecond": 30,
+		"logLevel": 0
+	},
+	"service": {
+		"rootUrl": ""
+	},
+	"controller": {
+		"startKey": "keydown_ENTER",
+		"actionKey": "keydown_ENTER",
+		"debugKey": "keydown_D",
+		"menuKey": "keydown_ESC",
+		"cancelKey": "keydown_ESC",
+		"upKey": "keydown_UP",
+		"downKey": "keydown_DOWN",
+		"leftKey": "keydown_LEFT",
+		"rightKey": "keydown_RIGHT",
+		"pauseKey": "keydown_P"
+	},
+	"audio" : {
+		"gameStartKey": "",
+		"gamePauseKey": "",
+		"menuSelectedKey": "",
+		"menuHighlightKey": "",
+		"combatBackgroundKey": "",
+		"enableSound": true,
+		"enableMusic": true
+	},
+	"progressBar": {
+		"background": "#FFFFFF",
+		"foreground": "#999999",
+		"percentColor": "#333333",
+		"alpha": 1,
+		"width": 400,
+		"height": 40,
+		"padding": 5
+	},
+	"dialogBox": {
+		"borderColor": "#907748",
+		"borderThickness": 3,
+		"borderAlpha": 1,
+		"windowAlpha": 1,
+		"windowBackground": "#303030",
+		"windowHeight": 150,
+		"align": "left",
+		"font": "DisposableDroid BB",
+		"fontSize": 30,
+		"padding": 32,
+		"margin": 32,
+		"textSpeed": 6,
+		"animateText": true
+	},
+	"map": {
+		"entranceWidth": 20,
+		"exitWidth": 100,
+		"tileWidth": 16,
+		"tileHeight": 16,
+		"interactionOffset": 20,
+		"detectionOffset": 100,
+		"spawnKeyName": "spawn",
+		"playerEntranceOffset": 20,
+		"encounterWidth": 40,
+		"encounterHeight": 40
+	},
+	"experience": {
+		"exponent": 1.5,
+		"levelCost": 1000,
+		"levelCap": 99
+	},
+	"combat": {
+		"deceasedListColor": "#FF0000",
+		"weakListColor": "#FF9D00",
+		"weakThreshold": 0.2,
+		"attackJitterAmount": 20,
+		"autoFight": false
+	},
+	"chance": {
+		"attackChanceValue": 3,
+		"dodgeChanceValue": 3
+	},
+	"character": {
+		"moveSpeed": 250,
+		"collisionWidth": 30,
+		"collisionHeight": 30,
+		"collisionXOffset": 20,
+		"collisionYOffset": 70,
+		"directionKeys": [ 
+			"left", 
+			"right", 
+			"up", 
+			"down" 
+		],
+		"animationKeys": [ 
+			"left", 
+			"right", 
+			"up", 
+			"down", 
+			"agree", 
+			"disagree", 
+			"laugh", 
+			"cry", 
+			"sword", 
+			"idle", 
+			"ready", 
+			"duck", 
+			"dodge", 
+			"hit", 
+			"hurt", 
+			"dead", 
+			"axe", 
+			"magic", 
+			"arrow", 
+			"cheer", 
+			"primed", 
+			"spin" 
+		]
+	}
+}

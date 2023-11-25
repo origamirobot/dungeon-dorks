@@ -1,0 +1,1469 @@
+{
+	"textures": [
+		{
+			"image": "locke.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 728,
+				"h": 482
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "locke-axe-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 41,
+						"w": 95,
+						"h": 95
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 95,
+						"h": 95
+					}
+				},
+				{
+					"filename": "locke-sword-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 41,
+						"w": 95,
+						"h": 95
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 95,
+						"h": 95
+					}
+				},
+				{
+					"filename": "locke-dodge-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 41,
+						"w": 59,
+						"h": 95
+					},
+					"frame": {
+						"x": 1,
+						"y": 98,
+						"w": 59,
+						"h": 95
+					}
+				},
+				{
+					"filename": "locke-hit-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 41,
+						"w": 59,
+						"h": 95
+					},
+					"frame": {
+						"x": 1,
+						"y": 195,
+						"w": 59,
+						"h": 95
+					}
+				},
+				{
+					"filename": "locke-cheer-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 41,
+						"w": 53,
+						"h": 95
+					},
+					"frame": {
+						"x": 1,
+						"y": 292,
+						"w": 53,
+						"h": 95
+					}
+				},
+				{
+					"filename": "locke-primed-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 44,
+						"w": 92,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 389,
+						"w": 92,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-primed-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 44,
+						"w": 92,
+						"h": 92
+					},
+					"frame": {
+						"x": 56,
+						"y": 292,
+						"w": 92,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-arrow-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 44,
+						"w": 71,
+						"h": 92
+					},
+					"frame": {
+						"x": 95,
+						"y": 386,
+						"w": 71,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-arrow-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 44,
+						"w": 71,
+						"h": 92
+					},
+					"frame": {
+						"x": 62,
+						"y": 98,
+						"w": 71,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-arrow-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 44,
+						"w": 68,
+						"h": 92
+					},
+					"frame": {
+						"x": 98,
+						"y": 1,
+						"w": 68,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-slash-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 68,
+						"h": 92
+					},
+					"frame": {
+						"x": 62,
+						"y": 192,
+						"w": 68,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-dodge-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 65,
+						"h": 92
+					},
+					"frame": {
+						"x": 132,
+						"y": 192,
+						"w": 65,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-hit-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 65,
+						"h": 92
+					},
+					"frame": {
+						"x": 135,
+						"y": 95,
+						"w": 65,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-agree-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 168,
+						"y": 1,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-agree-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 150,
+						"y": 286,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-down-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 8,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 150,
+						"y": 286,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-agree-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 199,
+						"y": 189,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-cry-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 202,
+						"y": 95,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-cry-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 202,
+						"y": 95,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-cry-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 229,
+						"y": 1,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-disagree-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 168,
+						"y": 380,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-disagree-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 211,
+						"y": 283,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-disagree-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 260,
+						"y": 189,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-idle-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 44,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 263,
+						"y": 95,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-idle-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 44,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 290,
+						"y": 1,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-laugh-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 229,
+						"y": 377,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-laugh-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 272,
+						"y": 283,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-laugh-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 321,
+						"y": 189,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-up-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 8,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 324,
+						"y": 95,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-cheer-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 56,
+						"h": 92
+					},
+					"frame": {
+						"x": 351,
+						"y": 1,
+						"w": 56,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-magic-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 56,
+						"h": 92
+					},
+					"frame": {
+						"x": 290,
+						"y": 377,
+						"w": 56,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-magic-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 56,
+						"h": 92
+					},
+					"frame": {
+						"x": 333,
+						"y": 283,
+						"w": 56,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-magic-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 56,
+						"h": 92
+					},
+					"frame": {
+						"x": 382,
+						"y": 189,
+						"w": 56,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-dodge-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 385,
+						"y": 95,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-hit-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 409,
+						"y": 1,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-left-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 8,
+						"w": 47,
+						"h": 92
+					},
+					"frame": {
+						"x": 348,
+						"y": 377,
+						"w": 47,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-right-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 8,
+						"w": 47,
+						"h": 92
+					},
+					"frame": {
+						"x": 391,
+						"y": 283,
+						"w": 47,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-primed-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 47,
+						"w": 92,
+						"h": 89
+					},
+					"frame": {
+						"x": 397,
+						"y": 377,
+						"w": 92,
+						"h": 89
+					}
+				},
+				{
+					"filename": "locke-slash-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 47,
+						"w": 80,
+						"h": 89
+					},
+					"frame": {
+						"x": 440,
+						"y": 95,
+						"w": 80,
+						"h": 89
+					}
+				},
+				{
+					"filename": "locke-axe-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 47,
+						"w": 77,
+						"h": 89
+					},
+					"frame": {
+						"x": 464,
+						"y": 1,
+						"w": 77,
+						"h": 89
+					}
+				},
+				{
+					"filename": "locke-sword-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 47,
+						"w": 77,
+						"h": 89
+					},
+					"frame": {
+						"x": 464,
+						"y": 1,
+						"w": 77,
+						"h": 89
+					}
+				},
+				{
+					"filename": "locke-slash-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 62,
+						"h": 89
+					},
+					"frame": {
+						"x": 440,
+						"y": 186,
+						"w": 62,
+						"h": 89
+					}
+				},
+				{
+					"filename": "locke-idle-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 47,
+						"w": 59,
+						"h": 89
+					},
+					"frame": {
+						"x": 440,
+						"y": 277,
+						"w": 59,
+						"h": 89
+					}
+				},
+				{
+					"filename": "locke-cheer-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 491,
+						"y": 368,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "locke-up-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 11,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 501,
+						"y": 277,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "locke-up-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 11,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 504,
+						"y": 186,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "locke-down-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 11,
+						"w": 50,
+						"h": 89
+					},
+					"frame": {
+						"x": 522,
+						"y": 92,
+						"w": 50,
+						"h": 89
+					}
+				},
+				{
+					"filename": "locke-down-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 11,
+						"w": 50,
+						"h": 89
+					},
+					"frame": {
+						"x": 543,
+						"y": 1,
+						"w": 50,
+						"h": 89
+					}
+				},
+				{
+					"filename": "locke-left-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 11,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 546,
+						"y": 368,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "locke-left-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 11,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 556,
+						"y": 277,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "locke-right-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 11,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 559,
+						"y": 183,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "locke-right-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 11,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 574,
+						"y": 92,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "locke-axe-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 50,
+						"w": 77,
+						"h": 86
+					},
+					"frame": {
+						"x": 595,
+						"y": 1,
+						"w": 77,
+						"h": 86
+					}
+				},
+				{
+					"filename": "locke-sword-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 50,
+						"w": 77,
+						"h": 86
+					},
+					"frame": {
+						"x": 595,
+						"y": 1,
+						"w": 77,
+						"h": 86
+					}
+				},
+				{
+					"filename": "locke-ready-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 50,
+						"w": 53,
+						"h": 86
+					},
+					"frame": {
+						"x": 595,
+						"y": 368,
+						"w": 53,
+						"h": 86
+					}
+				},
+				{
+					"filename": "locke-duck-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 53,
+						"w": 53,
+						"h": 83
+					},
+					"frame": {
+						"x": 605,
+						"y": 274,
+						"w": 53,
+						"h": 83
+					}
+				},
+				{
+					"filename": "locke-duck-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 53,
+						"w": 53,
+						"h": 83
+					},
+					"frame": {
+						"x": 608,
+						"y": 183,
+						"w": 53,
+						"h": 83
+					}
+				},
+				{
+					"filename": "locke-hurt-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 53,
+						"w": 53,
+						"h": 83
+					},
+					"frame": {
+						"x": 623,
+						"y": 89,
+						"w": 53,
+						"h": 83
+					}
+				},
+				{
+					"filename": "locke-hurt-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 53,
+						"w": 53,
+						"h": 83
+					},
+					"frame": {
+						"x": 674,
+						"y": 1,
+						"w": 53,
+						"h": 83
+					}
+				},
+				{
+					"filename": "locke-ready-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 53,
+						"w": 53,
+						"h": 83
+					},
+					"frame": {
+						"x": 650,
+						"y": 359,
+						"w": 53,
+						"h": 83
+					}
+				},
+				{
+					"filename": "locke-duck-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 56,
+						"w": 53,
+						"h": 80
+					},
+					"frame": {
+						"x": 660,
+						"y": 268,
+						"w": 53,
+						"h": 80
+					}
+				},
+				{
+					"filename": "locke-hurt-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 56,
+						"w": 53,
+						"h": 80
+					},
+					"frame": {
+						"x": 663,
+						"y": 174,
+						"w": 53,
+						"h": 80
+					}
+				},
+				{
+					"filename": "locke-dead-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 71,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 678,
+						"y": 86,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "locke-dead-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 71,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 678,
+						"y": 86,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "locke-dead-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 71,
+						"w": 44,
+						"h": 71
+					},
+					"frame": {
+						"x": 678,
+						"y": 86,
+						"w": 44,
+						"h": 71
+					}
+				},
+				{
+					"filename": "locke-spin-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 8,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 324,
+						"y": 95,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-spin-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 8,
+						"w": 47,
+						"h": 92
+					},
+					"frame": {
+						"x": 391,
+						"y": 283,
+						"w": 47,
+						"h": 92
+					}
+				},				
+				{
+					"filename": "locke-spin-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 8,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 150,
+						"y": 286,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "locke-spin-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 8,
+						"w": 47,
+						"h": 92
+					},
+					"frame": {
+						"x": 348,
+						"y": 377,
+						"w": 47,
+						"h": 92
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:998d2af870b1258c88ba7cb45f378a7a:278abb53f2ece1486d8e3d097112b03d:6975d390b1ca3877fb8d0ce5d7c53c0a$"
+	}
+}

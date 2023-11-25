@@ -1,0 +1,545 @@
+{
+	"textures": [
+		{
+			"image": "wind.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 246,
+				"h": 749
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "wind-expert-8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 116,
+						"h": 158
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 116,
+						"h": 158
+					}
+				},
+				{
+					"filename": "wind-expert-7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 20,
+						"w": 107,
+						"h": 158
+					},
+					"frame": {
+						"x": 119,
+						"y": 1,
+						"w": 107,
+						"h": 158
+					}
+				},
+				{
+					"filename": "wind-expert-6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 17,
+						"w": 101,
+						"h": 161
+					},
+					"frame": {
+						"x": 1,
+						"y": 161,
+						"w": 101,
+						"h": 161
+					}
+				},
+				{
+					"filename": "wind-beginner-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 77,
+						"w": 95,
+						"h": 32
+					},
+					"frame": {
+						"x": 104,
+						"y": 161,
+						"w": 95,
+						"h": 32
+					}
+				},
+				{
+					"filename": "wind-intermediate-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 74,
+						"w": 44,
+						"h": 35
+					},
+					"frame": {
+						"x": 201,
+						"y": 161,
+						"w": 44,
+						"h": 35
+					}
+				},
+				{
+					"filename": "wind-expert-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 17,
+						"w": 92,
+						"h": 161
+					},
+					"frame": {
+						"x": 104,
+						"y": 195,
+						"w": 92,
+						"h": 161
+					}
+				},
+				{
+					"filename": "wind-expert-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 101,
+						"w": 47,
+						"h": 47
+					},
+					"frame": {
+						"x": 198,
+						"y": 198,
+						"w": 47,
+						"h": 47
+					}
+				},
+				{
+					"filename": "wind-beginner-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 77,
+						"w": 44,
+						"h": 32
+					},
+					"frame": {
+						"x": 198,
+						"y": 247,
+						"w": 44,
+						"h": 32
+					}
+				},
+				{
+					"filename": "wind-beginner-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 77,
+						"w": 44,
+						"h": 32
+					},
+					"frame": {
+						"x": 198,
+						"y": 281,
+						"w": 44,
+						"h": 32
+					}
+				},
+				{
+					"filename": "wind-advanced-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 116,
+						"w": 41,
+						"h": 26
+					},
+					"frame": {
+						"x": 198,
+						"y": 315,
+						"w": 41,
+						"h": 26
+					}
+				},
+				{
+					"filename": "wind-intermediate-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 89,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 324,
+						"w": 89,
+						"h": 89
+					}
+				},
+				{
+					"filename": "wind-expert-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 119,
+						"w": 32,
+						"h": 29
+					},
+					"frame": {
+						"x": 198,
+						"y": 343,
+						"w": 32,
+						"h": 29
+					}
+				},
+				{
+					"filename": "wind-intermediate-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 56,
+						"w": 86,
+						"h": 74
+					},
+					"frame": {
+						"x": 92,
+						"y": 358,
+						"w": 86,
+						"h": 74
+					}
+				},
+				{
+					"filename": "wind-expert-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 17,
+						"w": 65,
+						"h": 158
+					},
+					"frame": {
+						"x": 180,
+						"y": 374,
+						"w": 65,
+						"h": 158
+					}
+				},
+				{
+					"filename": "wind-advanced-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 92,
+						"w": 86,
+						"h": 59
+					},
+					"frame": {
+						"x": 1,
+						"y": 415,
+						"w": 86,
+						"h": 59
+					}
+				},
+				{
+					"filename": "wind-advanced-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 71,
+						"w": 80,
+						"h": 80
+					},
+					"frame": {
+						"x": 89,
+						"y": 434,
+						"w": 80,
+						"h": 80
+					}
+				},
+				{
+					"filename": "wind-expert-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 17,
+						"w": 77,
+						"h": 158
+					},
+					"frame": {
+						"x": 1,
+						"y": 476,
+						"w": 77,
+						"h": 158
+					}
+				},
+				{
+					"filename": "wind-intermediate-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 44,
+						"w": 77,
+						"h": 98
+					},
+					"frame": {
+						"x": 1,
+						"y": 636,
+						"w": 77,
+						"h": 98
+					}
+				},
+				{
+					"filename": "wind-advanced-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 77,
+						"w": 77,
+						"h": 74
+					},
+					"frame": {
+						"x": 80,
+						"y": 516,
+						"w": 77,
+						"h": 74
+					}
+				},
+				{
+					"filename": "wind-advanced-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 77,
+						"w": 77,
+						"h": 74
+					},
+					"frame": {
+						"x": 159,
+						"y": 534,
+						"w": 77,
+						"h": 74
+					}
+				},
+				{
+					"filename": "wind-advanced-6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 80,
+						"w": 77,
+						"h": 71
+					},
+					"frame": {
+						"x": 80,
+						"y": 592,
+						"w": 77,
+						"h": 71
+					}
+				},
+				{
+					"filename": "wind-intermediate-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 47,
+						"w": 71,
+						"h": 92
+					},
+					"frame": {
+						"x": 159,
+						"y": 610,
+						"w": 71,
+						"h": 92
+					}
+				},
+				{
+					"filename": "wind-advanced-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 107,
+						"w": 65,
+						"h": 44
+					},
+					"frame": {
+						"x": 80,
+						"y": 704,
+						"w": 65,
+						"h": 44
+					}
+				},
+				{
+					"filename": "wind-beginner-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 77,
+						"w": 68,
+						"h": 32
+					},
+					"frame": {
+						"x": 80,
+						"y": 665,
+						"w": 68,
+						"h": 32
+					}
+				},
+				{
+					"filename": "wind-intermediate-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 71,
+						"w": 59,
+						"h": 41
+					},
+					"frame": {
+						"x": 147,
+						"y": 704,
+						"w": 59,
+						"h": 41
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fabfcbf76e9f796e0280c53b37f99209:8b718ef619de6c21755b6fd9fe135468:e58866dcdc8694a9a9ae46e55ae60f3d$"
+	}
+}

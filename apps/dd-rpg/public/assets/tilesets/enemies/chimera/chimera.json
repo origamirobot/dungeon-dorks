@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "chimera.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 670,
+				"h": 424
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "chimera-down-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 37,
+						"w": 212,
+						"h": 142
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 212,
+						"h": 142
+					}
+				},
+				{
+					"filename": "chimera-down-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 39,
+						"w": 214,
+						"h": 140
+					},
+					"frame": {
+						"x": 1,
+						"y": 145,
+						"w": 214,
+						"h": 140
+					}
+				},
+				{
+					"filename": "chimera-down-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 37,
+						"w": 208,
+						"h": 142
+					},
+					"frame": {
+						"x": 215,
+						"y": 1,
+						"w": 208,
+						"h": 142
+					}
+				},
+				{
+					"filename": "chimera-up-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 43,
+						"w": 212,
+						"h": 136
+					},
+					"frame": {
+						"x": 1,
+						"y": 287,
+						"w": 212,
+						"h": 136
+					}
+				},
+				{
+					"filename": "chimera-up-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 53,
+						"w": 214,
+						"h": 130
+					},
+					"frame": {
+						"x": 215,
+						"y": 287,
+						"w": 214,
+						"h": 130
+					}
+				},
+				{
+					"filename": "chimera-up-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 43,
+						"w": 204,
+						"h": 138
+					},
+					"frame": {
+						"x": 217,
+						"y": 145,
+						"w": 204,
+						"h": 138
+					}
+				},
+				{
+					"filename": "chimera-left-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 45,
+						"w": 118,
+						"h": 134
+					},
+					"frame": {
+						"x": 423,
+						"y": 145,
+						"w": 118,
+						"h": 134
+					}
+				},
+				{
+					"filename": "chimera-left-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 45,
+						"w": 118,
+						"h": 134
+					},
+					"frame": {
+						"x": 431,
+						"y": 281,
+						"w": 118,
+						"h": 134
+					}
+				},
+				{
+					"filename": "chimera-right-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 45,
+						"w": 118,
+						"h": 134
+					},
+					"frame": {
+						"x": 425,
+						"y": 1,
+						"w": 118,
+						"h": 134
+					}
+				},
+				{
+					"filename": "chimera-right-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 45,
+						"w": 118,
+						"h": 134
+					},
+					"frame": {
+						"x": 543,
+						"y": 137,
+						"w": 118,
+						"h": 134
+					}
+				},
+				{
+					"filename": "chimera-left-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 49,
+						"w": 118,
+						"h": 130
+					},
+					"frame": {
+						"x": 545,
+						"y": 1,
+						"w": 118,
+						"h": 130
+					}
+				},
+				{
+					"filename": "chimera-right-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 49,
+						"w": 118,
+						"h": 130
+					},
+					"frame": {
+						"x": 551,
+						"y": 273,
+						"w": 118,
+						"h": 130
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7c4382ec3174158410d631882b1f4105:25833d3da86d28fadaeab02959346291:1af428e014313d7df17b65748b769464$"
+	}
+}

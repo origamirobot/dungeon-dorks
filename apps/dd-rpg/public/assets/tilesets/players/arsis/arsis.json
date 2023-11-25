@@ -1,0 +1,1469 @@
+{
+	"textures": [
+		{
+			"image": "arsis.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 241,
+				"h": 1459
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "arsis-axe-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 32,
+						"w": 92,
+						"h": 110
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 92,
+						"h": 110
+					}
+				},
+				{
+					"filename": "arsis-slash-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 32,
+						"w": 92,
+						"h": 110
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 92,
+						"h": 110
+					}
+				},
+				{
+					"filename": "arsis-axe-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 29,
+						"w": 86,
+						"h": 107
+					},
+					"frame": {
+						"x": 95,
+						"y": 1,
+						"w": 86,
+						"h": 107
+					}
+				},
+				{
+					"filename": "arsis-slash-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 29,
+						"w": 86,
+						"h": 107
+					},
+					"frame": {
+						"x": 95,
+						"y": 1,
+						"w": 86,
+						"h": 107
+					}
+				},
+				{
+					"filename": "arsis-cheer-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 41,
+						"w": 53,
+						"h": 95
+					},
+					"frame": {
+						"x": 183,
+						"y": 1,
+						"w": 53,
+						"h": 95
+					}
+				},
+				{
+					"filename": "arsis-cheer-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 56,
+						"h": 89
+					},
+					"frame": {
+						"x": 183,
+						"y": 98,
+						"w": 56,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-axe-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 56,
+						"w": 86,
+						"h": 83
+					},
+					"frame": {
+						"x": 95,
+						"y": 110,
+						"w": 86,
+						"h": 83
+					}
+				},
+				{
+					"filename": "arsis-slash-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 56,
+						"w": 86,
+						"h": 83
+					},
+					"frame": {
+						"x": 95,
+						"y": 110,
+						"w": 86,
+						"h": 83
+					}
+				},
+				{
+					"filename": "arsis-magic-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 56,
+						"h": 89
+					},
+					"frame": {
+						"x": 183,
+						"y": 189,
+						"w": 56,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-primed-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 47,
+						"w": 92,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 113,
+						"w": 92,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-sword-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 53,
+						"w": 86,
+						"h": 83
+					},
+					"frame": {
+						"x": 95,
+						"y": 195,
+						"w": 86,
+						"h": 83
+					}
+				},
+				{
+					"filename": "arsis-primed-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 47,
+						"w": 92,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 204,
+						"w": 92,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-sword-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 44,
+						"w": 95,
+						"h": 92
+					},
+					"frame": {
+						"x": 95,
+						"y": 280,
+						"w": 95,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-left-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 8,
+						"w": 47,
+						"h": 92
+					},
+					"frame": {
+						"x": 192,
+						"y": 280,
+						"w": 47,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-primed-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 50,
+						"w": 92,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 295,
+						"w": 92,
+						"h": 86
+					}
+				},
+				{
+					"filename": "arsis-sword-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 50,
+						"w": 77,
+						"h": 86
+					},
+					"frame": {
+						"x": 95,
+						"y": 374,
+						"w": 77,
+						"h": 86
+					}
+				},
+				{
+					"filename": "arsis-dodge-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 65,
+						"h": 89
+					},
+					"frame": {
+						"x": 174,
+						"y": 374,
+						"w": 65,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-arrow-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 47,
+						"w": 71,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 383,
+						"w": 71,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-arrow-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 47,
+						"w": 71,
+						"h": 89
+					},
+					"frame": {
+						"x": 74,
+						"y": 462,
+						"w": 71,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-arrow-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 47,
+						"w": 68,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 474,
+						"w": 68,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-hit-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 65,
+						"h": 89
+					},
+					"frame": {
+						"x": 147,
+						"y": 465,
+						"w": 65,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-agree-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 71,
+						"y": 553,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-agree-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 565,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-down-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 8,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 565,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-argree-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 132,
+						"y": 556,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-right-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 8,
+						"w": 47,
+						"h": 92
+					},
+					"frame": {
+						"x": 193,
+						"y": 556,
+						"w": 47,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-cry-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 62,
+						"y": 647,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-cry-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 62,
+						"y": 647,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-cry-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 659,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-disagree-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 123,
+						"y": 650,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-disagree-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 62,
+						"y": 741,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-disagree-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 753,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-magic-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 56,
+						"h": 89
+					},
+					"frame": {
+						"x": 184,
+						"y": 650,
+						"w": 56,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-magic-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 56,
+						"h": 89
+					},
+					"frame": {
+						"x": 184,
+						"y": 741,
+						"w": 56,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-dodge-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 123,
+						"y": 744,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-dodge-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 184,
+						"y": 832,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-hit-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 62,
+						"y": 835,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-laugh-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 847,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-laugh-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 123,
+						"y": 838,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-laught-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 62,
+						"y": 929,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-up-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 8,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 941,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-hit-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 184,
+						"y": 923,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-down-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 59,
+						"h": 89
+					},
+					"frame": {
+						"x": 123,
+						"y": 932,
+						"w": 59,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-left-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 11,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 184,
+						"y": 1014,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-down-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 59,
+						"h": 89
+					},
+					"frame": {
+						"x": 62,
+						"y": 1023,
+						"w": 59,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-idle-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 47,
+						"w": 59,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 1035,
+						"w": 59,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-idle-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 47,
+						"w": 59,
+						"h": 89
+					},
+					"frame": {
+						"x": 123,
+						"y": 1023,
+						"w": 59,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-right-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 184,
+						"y": 1105,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-up-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 59,
+						"h": 89
+					},
+					"frame": {
+						"x": 62,
+						"y": 1114,
+						"w": 59,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-up-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 59,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 1126,
+						"w": 59,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-idle-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 50,
+						"w": 59,
+						"h": 86
+					},
+					"frame": {
+						"x": 123,
+						"y": 1114,
+						"w": 59,
+						"h": 86
+					}
+				},
+				{
+					"filename": "arsis-cheer-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 50,
+						"w": 53,
+						"h": 86
+					},
+					"frame": {
+						"x": 184,
+						"y": 1196,
+						"w": 53,
+						"h": 86
+					}
+				},
+				{
+					"filename": "arsis-ready-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 53,
+						"w": 53,
+						"h": 83
+					},
+					"frame": {
+						"x": 123,
+						"y": 1202,
+						"w": 53,
+						"h": 83
+					}
+				},
+				{
+					"filename": "arsis-ready-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 53,
+						"w": 53,
+						"h": 83
+					},
+					"frame": {
+						"x": 178,
+						"y": 1284,
+						"w": 53,
+						"h": 83
+					}
+				},
+				{
+					"filename": "arsis-duck-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 56,
+						"w": 53,
+						"h": 80
+					},
+					"frame": {
+						"x": 62,
+						"y": 1205,
+						"w": 53,
+						"h": 80
+					}
+				},
+				{
+					"filename": "arsis-duck-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 56,
+						"w": 53,
+						"h": 80
+					},
+					"frame": {
+						"x": 1,
+						"y": 1217,
+						"w": 53,
+						"h": 80
+					}
+				},
+				{
+					"filename": "arsis-dead-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 80,
+						"w": 71,
+						"h": 62
+					},
+					"frame": {
+						"x": 56,
+						"y": 1287,
+						"w": 71,
+						"h": 62
+					}
+				},
+				{
+					"filename": "arsis-dead-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 80,
+						"w": 71,
+						"h": 62
+					},
+					"frame": {
+						"x": 56,
+						"y": 1287,
+						"w": 71,
+						"h": 62
+					}
+				},
+				{
+					"filename": "arsis-dead-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 80,
+						"w": 71,
+						"h": 62
+					},
+					"frame": {
+						"x": 56,
+						"y": 1287,
+						"w": 71,
+						"h": 62
+					}
+				},
+				{
+					"filename": "arsis-left-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 11,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 129,
+						"y": 1287,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-hurt-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 56,
+						"w": 53,
+						"h": 80
+					},
+					"frame": {
+						"x": 178,
+						"y": 1369,
+						"w": 53,
+						"h": 80
+					}
+				},
+				{
+					"filename": "arsis-hurt-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 56,
+						"w": 53,
+						"h": 80
+					},
+					"frame": {
+						"x": 1,
+						"y": 1299,
+						"w": 53,
+						"h": 80
+					}
+				},
+				{
+					"filename": "arsis-right-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 11,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 56,
+						"y": 1351,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "arsis-duck-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 59,
+						"w": 53,
+						"h": 77
+					},
+					"frame": {
+						"x": 1,
+						"y": 1381,
+						"w": 53,
+						"h": 77
+					}
+				},
+				{
+					"filename": "arsis-hurt-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 59,
+						"w": 53,
+						"h": 77
+					},
+					"frame": {
+						"x": 105,
+						"y": 1378,
+						"w": 53,
+						"h": 77
+					}
+				},
+				{
+					"filename": "arsis-spin-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 8,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 941,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "arsis-spin-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 8,
+						"w": 47,
+						"h": 92
+					},
+					"frame": {
+						"x": 192,
+						"y": 280,
+						"w": 47,
+						"h": 92
+					}
+				},				
+				{
+					"filename": "arsis-spin-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 8,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 565,
+						"w": 59,
+						"h": 92
+					}
+				},		
+				{
+					"filename": "arsis-spin-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 8,
+						"w": 47,
+						"h": 92
+					},
+					"frame": {
+						"x": 193,
+						"y": 556,
+						"w": 47,
+						"h": 92
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8630a79527ba45c79f26e5c91d4371cf:6f2f57771d658251937525bd5753a2fa:9aae498e1b73e207b7f66f7c78743161$"
+	}
+}

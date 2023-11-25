@@ -1,0 +1,11 @@
+{
+	"preload": {
+	  "files": [
+		{ "type": "tilemapTiledJSON", "key": "world", "url": "assets/tilemaps/world.map.json" },
+		{ "type": "image", "key": "world_tileset", "url": "assets/tilesets/world.png" },
+		{ "type": "image", "key": "plains_1_background", "url": "assets/images/backgrounds/plains.1.png" },
+		{ "type": "image", "key": "plains_2_background", "url": "assets/images/backgrounds/plains.2.png" },
+		{ "type":"spritesheet", "key": "arsis_sprite", "url": "assets/tilesets/arsis.body.png", "frameConfig": { "frameWidth": 78, "frameHeight": 108 } }
+  ]
+	}
+}

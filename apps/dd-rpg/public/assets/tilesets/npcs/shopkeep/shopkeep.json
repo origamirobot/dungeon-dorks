@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "shopkeep.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 600,
+				"h": 90
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shopkeep-down-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 20,
+						"w": 53,
+						"h": 88
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 53,
+						"h": 88
+					}
+				},
+				{
+					"filename": "shopkeep-up-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 20,
+						"w": 53,
+						"h": 88
+					},
+					"frame": {
+						"x": 56,
+						"y": 1,
+						"w": 53,
+						"h": 88
+					}
+				},
+				{
+					"filename": "shopkeep-left-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 20,
+						"w": 47,
+						"h": 88
+					},
+					"frame": {
+						"x": 111,
+						"y": 1,
+						"w": 47,
+						"h": 88
+					}
+				},
+				{
+					"filename": "shopkeep-right-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 20,
+						"w": 47,
+						"h": 88
+					},
+					"frame": {
+						"x": 160,
+						"y": 1,
+						"w": 47,
+						"h": 88
+					}
+				},
+				{
+					"filename": "shopkeep-down-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 23,
+						"w": 47,
+						"h": 85
+					},
+					"frame": {
+						"x": 209,
+						"y": 1,
+						"w": 47,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shopkeep-down-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 23,
+						"w": 47,
+						"h": 85
+					},
+					"frame": {
+						"x": 258,
+						"y": 1,
+						"w": 47,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shopkeep-left-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 23,
+						"w": 47,
+						"h": 85
+					},
+					"frame": {
+						"x": 307,
+						"y": 1,
+						"w": 47,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shopkeep-left-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 23,
+						"w": 47,
+						"h": 85
+					},
+					"frame": {
+						"x": 356,
+						"y": 1,
+						"w": 47,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shopkeep-right-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 23,
+						"w": 47,
+						"h": 85
+					},
+					"frame": {
+						"x": 405,
+						"y": 1,
+						"w": 47,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shopkeep-right-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 23,
+						"w": 47,
+						"h": 85
+					},
+					"frame": {
+						"x": 454,
+						"y": 1,
+						"w": 47,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shopkeep-up-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 23,
+						"w": 47,
+						"h": 85
+					},
+					"frame": {
+						"x": 503,
+						"y": 1,
+						"w": 47,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shopkeep-up-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 23,
+						"w": 47,
+						"h": 85
+					},
+					"frame": {
+						"x": 552,
+						"y": 1,
+						"w": 47,
+						"h": 85
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:70a6677595e64b54deccfee71d10834f:01b34233813380d14590b35508f55a91:d3a3b8ea8b768cc2583117df56375cd2$"
+	}
+}

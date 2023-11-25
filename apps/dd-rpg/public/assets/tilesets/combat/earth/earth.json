@@ -1,0 +1,587 @@
+{
+	"textures": [
+		{
+			"image": "earth.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 255,
+				"h": 709
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "earth-advanced-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 71,
+						"w": 119,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 119,
+						"h": 89
+					}
+				},
+				{
+					"filename": "earth-advanced-6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 80,
+						"w": 119,
+						"h": 80
+					},
+					"frame": {
+						"x": 122,
+						"y": 1,
+						"w": 119,
+						"h": 80
+					}
+				},
+				{
+					"filename": "earth-advanced-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 65,
+						"w": 116,
+						"h": 95
+					},
+					"frame": {
+						"x": 122,
+						"y": 83,
+						"w": 116,
+						"h": 95
+					}
+				},
+				{
+					"filename": "earth-advanced-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 53,
+						"w": 113,
+						"h": 107
+					},
+					"frame": {
+						"x": 1,
+						"y": 92,
+						"w": 113,
+						"h": 107
+					}
+				},
+				{
+					"filename": "earth-intermediate-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 77,
+						"w": 104,
+						"h": 71
+					},
+					"frame": {
+						"x": 116,
+						"y": 180,
+						"w": 104,
+						"h": 71
+					}
+				},
+				{
+					"filename": "earth-beginner-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 29,
+						"w": 32,
+						"h": 41
+					},
+					"frame": {
+						"x": 222,
+						"y": 180,
+						"w": 32,
+						"h": 41
+					}
+				},
+				{
+					"filename": "earth-beginner-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 29,
+						"w": 32,
+						"h": 41
+					},
+					"frame": {
+						"x": 222,
+						"y": 223,
+						"w": 32,
+						"h": 41
+					}
+				},
+				{
+					"filename": "earth-intermediate-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 68,
+						"w": 98,
+						"h": 71
+					},
+					"frame": {
+						"x": 1,
+						"y": 201,
+						"w": 98,
+						"h": 71
+					}
+				},
+				{
+					"filename": "earth-intermediate-6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 86,
+						"w": 98,
+						"h": 65
+					},
+					"frame": {
+						"x": 101,
+						"y": 253,
+						"w": 98,
+						"h": 65
+					}
+				},
+				{
+					"filename": "earth-advanced-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 47,
+						"w": 92,
+						"h": 113
+					},
+					"frame": {
+						"x": 1,
+						"y": 274,
+						"w": 92,
+						"h": 113
+					}
+				},
+				{
+					"filename": "earth-intermediate-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 68,
+						"w": 38,
+						"h": 50
+					},
+					"frame": {
+						"x": 201,
+						"y": 266,
+						"w": 38,
+						"h": 50
+					}
+				},
+				{
+					"filename": "earth-beginner-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 74,
+						"w": 38,
+						"h": 41
+					},
+					"frame": {
+						"x": 201,
+						"y": 318,
+						"w": 38,
+						"h": 41
+					}
+				},
+				{
+					"filename": "earth-intermediate-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 62,
+						"w": 92,
+						"h": 71
+					},
+					"frame": {
+						"x": 95,
+						"y": 320,
+						"w": 92,
+						"h": 71
+					}
+				},
+				{
+					"filename": "earth-advanced-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 56,
+						"w": 62,
+						"h": 107
+					},
+					"frame": {
+						"x": 189,
+						"y": 361,
+						"w": 62,
+						"h": 107
+					}
+				},
+				{
+					"filename": "earth-expert-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 68,
+						"w": 80,
+						"h": 95
+					},
+					"frame": {
+						"x": 1,
+						"y": 389,
+						"w": 80,
+						"h": 95
+					}
+				},
+				{
+					"filename": "earth-expert-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 77,
+						"w": 80,
+						"h": 86
+					},
+					"frame": {
+						"x": 83,
+						"y": 393,
+						"w": 80,
+						"h": 86
+					}
+				},
+				{
+					"filename": "earth-advanced-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 50,
+						"w": 77,
+						"h": 113
+					},
+					"frame": {
+						"x": 165,
+						"y": 470,
+						"w": 77,
+						"h": 113
+					}
+				},
+				{
+					"filename": "earth-expert-6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 62,
+						"w": 77,
+						"h": 101
+					},
+					"frame": {
+						"x": 83,
+						"y": 481,
+						"w": 77,
+						"h": 101
+					}
+				},
+				{
+					"filename": "earth-expert-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 65,
+						"w": 77,
+						"h": 98
+					},
+					"frame": {
+						"x": 1,
+						"y": 486,
+						"w": 77,
+						"h": 98
+					}
+				},
+				{
+					"filename": "earth-intermediate-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 59,
+						"w": 77,
+						"h": 65
+					},
+					"frame": {
+						"x": 80,
+						"y": 584,
+						"w": 77,
+						"h": 65
+					}
+				},
+				{
+					"filename": "earth-intermediate-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 62,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 651,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "earth-expert-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 104,
+						"w": 74,
+						"h": 59
+					},
+					"frame": {
+						"x": 1,
+						"y": 586,
+						"w": 74,
+						"h": 59
+					}
+				},
+				{
+					"filename": "earth-expert-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 122,
+						"w": 62,
+						"h": 41
+					},
+					"frame": {
+						"x": 59,
+						"y": 651,
+						"w": 62,
+						"h": 41
+					}
+				},
+				{
+					"filename": "earth-beginner-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 47,
+						"w": 32,
+						"h": 41
+					},
+					"frame": {
+						"x": 123,
+						"y": 651,
+						"w": 32,
+						"h": 41
+					}
+				},
+				{
+					"filename": "earth-beginner-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 71,
+						"w": 32,
+						"h": 41
+					},
+					"frame": {
+						"x": 123,
+						"y": 651,
+						"w": 32,
+						"h": 41
+					}
+				},
+				{
+					"filename": "earth-expert-7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 62,
+						"w": 74,
+						"h": 101
+					},
+					"frame": {
+						"x": 159,
+						"y": 585,
+						"w": 74,
+						"h": 101
+					}
+				},
+				{
+					"filename": "earth-expert-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 143,
+						"w": 56,
+						"h": 20
+					},
+					"frame": {
+						"x": 157,
+						"y": 688,
+						"w": 56,
+						"h": 20
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8c068d832ef891507d3d7aec20cca1b1:b22bcbd2e668df0ef4ee58824cd5be17:770a330e1291704b3b74ed034db2e056$"
+	}
+}

@@ -1,0 +1,1469 @@
+{
+	"textures": [
+		{
+			"image": "morvan.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 707,
+				"h": 510
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "morvan-slash-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 23,
+						"w": 83,
+						"h": 113
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 83,
+						"h": 113
+					}
+				},
+				{
+					"filename": "morvan-slash-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 35,
+						"w": 98,
+						"h": 101
+					},
+					"frame": {
+						"x": 1,
+						"y": 116,
+						"w": 98,
+						"h": 101
+					}
+				},
+				{
+					"filename": "morvan-dodge-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 86,
+						"y": 1,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "morvan-hit-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 219,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "morvan-cheer-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 313,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "morvan-axe-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 95,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 407,
+						"w": 95,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-sword-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 95,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 407,
+						"w": 95,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-primed-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 47,
+						"w": 89,
+						"h": 89
+					},
+					"frame": {
+						"x": 56,
+						"y": 313,
+						"w": 89,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-primed-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 47,
+						"w": 89,
+						"h": 89
+					},
+					"frame": {
+						"x": 62,
+						"y": 219,
+						"w": 89,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-arrow-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 47,
+						"w": 71,
+						"h": 89
+					},
+					"frame": {
+						"x": 98,
+						"y": 404,
+						"w": 71,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-arrow-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 47,
+						"w": 71,
+						"h": 89
+					},
+					"frame": {
+						"x": 147,
+						"y": 310,
+						"w": 71,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-arrow-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 47,
+						"w": 68,
+						"h": 89
+					},
+					"frame": {
+						"x": 171,
+						"y": 401,
+						"w": 68,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-dodge-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 65,
+						"h": 89
+					},
+					"frame": {
+						"x": 101,
+						"y": 95,
+						"w": 65,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-hit-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 65,
+						"h": 89
+					},
+					"frame": {
+						"x": 147,
+						"y": 1,
+						"w": 65,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-idle-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 47,
+						"w": 59,
+						"h": 89
+					},
+					"frame": {
+						"x": 153,
+						"y": 186,
+						"w": 59,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-idle-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 47,
+						"w": 59,
+						"h": 89
+					},
+					"frame": {
+						"x": 168,
+						"y": 92,
+						"w": 59,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-cheer-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 56,
+						"h": 89
+					},
+					"frame": {
+						"x": 214,
+						"y": 1,
+						"w": 56,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-dodge-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 47,
+						"w": 56,
+						"h": 89
+					},
+					"frame": {
+						"x": 214,
+						"y": 183,
+						"w": 56,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-hit-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 47,
+						"w": 56,
+						"h": 89
+					},
+					"frame": {
+						"x": 229,
+						"y": 92,
+						"w": 56,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-magic-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 56,
+						"h": 89
+					},
+					"frame": {
+						"x": 272,
+						"y": 1,
+						"w": 56,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-magic-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 56,
+						"h": 89
+					},
+					"frame": {
+						"x": 220,
+						"y": 274,
+						"w": 56,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-magic-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 56,
+						"h": 89
+					},
+					"frame": {
+						"x": 272,
+						"y": 183,
+						"w": 56,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-agree-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 287,
+						"y": 92,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-agree-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 330,
+						"y": 1,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-down-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 6,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 330,
+						"y": 1,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-agree-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 241,
+						"y": 365,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-cry-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 278,
+						"y": 274,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-cry-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 278,
+						"y": 274,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-cry-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 330,
+						"y": 183,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-disagree-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 342,
+						"y": 92,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-disagree-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 385,
+						"y": 1,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-disagree-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 296,
+						"y": 365,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-laugh-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 333,
+						"y": 274,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-laugh-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 385,
+						"y": 183,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-laugh-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 397,
+						"y": 92,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-up-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 6,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 440,
+						"y": 1,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-left-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 6,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 351,
+						"y": 365,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-right-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 6,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 388,
+						"y": 274,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-primed-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 50,
+						"w": 89,
+						"h": 86
+					},
+					"frame": {
+						"x": 400,
+						"y": 365,
+						"w": 89,
+						"h": 86
+					}
+				},
+				{
+					"filename": "morvan-axe-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 50,
+						"w": 80,
+						"h": 86
+					},
+					"frame": {
+						"x": 437,
+						"y": 274,
+						"w": 80,
+						"h": 86
+					}
+				},
+				{
+					"filename": "morvan-sword-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 50,
+						"w": 80,
+						"h": 86
+					},
+					"frame": {
+						"x": 437,
+						"y": 274,
+						"w": 80,
+						"h": 86
+					}
+				},
+				{
+					"filename": "morvan-idle-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 50,
+						"w": 59,
+						"h": 86
+					},
+					"frame": {
+						"x": 440,
+						"y": 183,
+						"w": 59,
+						"h": 86
+					}
+				},
+				{
+					"filename": "morvan-cheer-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 50,
+						"w": 53,
+						"h": 86
+					},
+					"frame": {
+						"x": 452,
+						"y": 92,
+						"w": 53,
+						"h": 86
+					}
+				},
+				{
+					"filename": "morvan-ready-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 50,
+						"w": 53,
+						"h": 86
+					},
+					"frame": {
+						"x": 495,
+						"y": 1,
+						"w": 53,
+						"h": 86
+					}
+				},
+				{
+					"filename": "morvan-ready-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 50,
+						"w": 53,
+						"h": 86
+					},
+					"frame": {
+						"x": 501,
+						"y": 180,
+						"w": 53,
+						"h": 86
+					}
+				},
+				{
+					"filename": "morvan-down-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 9,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 507,
+						"y": 89,
+						"w": 47,
+						"h": 86
+					}
+				},
+				{
+					"filename": "morvan-down-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 9,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 550,
+						"y": 1,
+						"w": 47,
+						"h": 86
+					}
+				},
+				{
+					"filename": "morvan-left-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 9,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 491,
+						"y": 362,
+						"w": 47,
+						"h": 86
+					}
+				},
+				{
+					"filename": "morvan-dead-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 83,
+						"w": 83,
+						"h": 59
+					},
+					"frame": {
+						"x": 491,
+						"y": 450,
+						"w": 83,
+						"h": 59
+					}
+				},
+				{
+					"filename": "morvan-dead-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 83,
+						"w": 83,
+						"h": 59
+					},
+					"frame": {
+						"x": 491,
+						"y": 450,
+						"w": 83,
+						"h": 59
+					}
+				},
+				{
+					"filename": "morvan-dead-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 83,
+						"w": 83,
+						"h": 59
+					},
+					"frame": {
+						"x": 491,
+						"y": 450,
+						"w": 83,
+						"h": 59
+					}
+				},
+				{
+					"filename": "morvan-left-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 9,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 519,
+						"y": 268,
+						"w": 47,
+						"h": 86
+					}
+				},
+				{
+					"filename": "morvan-right-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 9,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 540,
+						"y": 356,
+						"w": 47,
+						"h": 86
+					}
+				},
+				{
+					"filename": "morvan-right-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 9,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 556,
+						"y": 89,
+						"w": 47,
+						"h": 86
+					}
+				},
+				{
+					"filename": "morvan-up-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 9,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 599,
+						"y": 1,
+						"w": 47,
+						"h": 86
+					}
+				},
+				{
+					"filename": "morvan-up-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 9,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 556,
+						"y": 177,
+						"w": 47,
+						"h": 86
+					}
+				},
+				{
+					"filename": "morvan-axe-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 53,
+						"w": 83,
+						"h": 83
+					},
+					"frame": {
+						"x": 568,
+						"y": 265,
+						"w": 83,
+						"h": 83
+					}
+				},
+				{
+					"filename": "morvan-sword-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 53,
+						"w": 83,
+						"h": 83
+					},
+					"frame": {
+						"x": 568,
+						"y": 265,
+						"w": 83,
+						"h": 83
+					}
+				},
+				{
+					"filename": "morvan-slash-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 56,
+						"w": 95,
+						"h": 80
+					},
+					"frame": {
+						"x": 589,
+						"y": 350,
+						"w": 95,
+						"h": 80
+					}
+				},
+				{
+					"filename": "morvan-duck-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 59,
+						"w": 53,
+						"h": 77
+					},
+					"frame": {
+						"x": 589,
+						"y": 432,
+						"w": 53,
+						"h": 77
+					}
+				},
+				{
+					"filename": "morvan-hurt-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 59,
+						"w": 53,
+						"h": 77
+					},
+					"frame": {
+						"x": 644,
+						"y": 432,
+						"w": 53,
+						"h": 77
+					}
+				},
+				{
+					"filename": "morvan-duck-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 56,
+						"w": 53,
+						"h": 80
+					},
+					"frame": {
+						"x": 605,
+						"y": 89,
+						"w": 53,
+						"h": 80
+					}
+				},
+				{
+					"filename": "morvan-duck-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 56,
+						"w": 53,
+						"h": 80
+					},
+					"frame": {
+						"x": 648,
+						"y": 1,
+						"w": 53,
+						"h": 80
+					}
+				},
+				{
+					"filename": "morvan-hurt-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 56,
+						"w": 53,
+						"h": 80
+					},
+					"frame": {
+						"x": 605,
+						"y": 171,
+						"w": 53,
+						"h": 80
+					}
+				},
+				{
+					"filename": "morvan-hurt-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 56,
+						"w": 53,
+						"h": 80
+					},
+					"frame": {
+						"x": 653,
+						"y": 253,
+						"w": 53,
+						"h": 80
+					}
+				},
+				{
+					"filename": "morvan-spin-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 6,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 440,
+						"y": 1,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-spin-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 6,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 351,
+						"y": 365,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-spin-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 6,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 330,
+						"y": 1,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "morvan-spin-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 6,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 388,
+						"y": 274,
+						"w": 47,
+						"h": 89
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9cf011fa810def8f9490e4d843dea8f3:2d8e561d1a39699758214d6cd27ac648:12ac61bea411da3c8a776207025250d4$"
+	}
+}

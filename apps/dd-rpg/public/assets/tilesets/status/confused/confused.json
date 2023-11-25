@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "confused.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 198,
+				"h": 37
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confused-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 25,
+						"w": 11,
+						"h": 14
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 11,
+						"h": 14
+					}
+				},
+				{
+					"filename": "confused-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 13,
+						"w": 26,
+						"h": 29
+					},
+					"frame": {
+						"x": 14,
+						"y": 1,
+						"w": 26,
+						"h": 29
+					}
+				},
+				{
+					"filename": "confused-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 10,
+						"w": 20,
+						"h": 32
+					},
+					"frame": {
+						"x": 42,
+						"y": 1,
+						"w": 20,
+						"h": 32
+					}
+				},
+				{
+					"filename": "confused-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 10,
+						"w": 44,
+						"h": 32
+					},
+					"frame": {
+						"x": 64,
+						"y": 1,
+						"w": 44,
+						"h": 32
+					}
+				},
+				{
+					"filename": "confused-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 7,
+						"w": 41,
+						"h": 35
+					},
+					"frame": {
+						"x": 110,
+						"y": 1,
+						"w": 41,
+						"h": 35
+					}
+				},
+				{
+					"filename": "confused-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 7,
+						"w": 44,
+						"h": 35
+					},
+					"frame": {
+						"x": 153,
+						"y": 1,
+						"w": 44,
+						"h": 35
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cc9e2491bd404f24ab0c838025845c0d:9d859645af39150edc4a92c1f3a765a2:22b008705fa7b669fd81860083d9239f$"
+	}
+}

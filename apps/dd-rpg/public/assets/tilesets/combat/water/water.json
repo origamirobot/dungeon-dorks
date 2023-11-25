@@ -1,0 +1,881 @@
+{
+	"textures": [
+		{
+			"image": "water.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 125,
+				"h": 1255
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "water-expert-11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 53,
+						"w": 89,
+						"h": 95
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 89,
+						"h": 95
+					}
+				},
+				{
+					"filename": "water-intermediate-9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 71,
+						"w": 32,
+						"h": 47
+					},
+					"frame": {
+						"x": 92,
+						"y": 1,
+						"w": 32,
+						"h": 47
+					}
+				},
+				{
+					"filename": "water-intermediate-10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 98,
+						"y": 71,
+						"w": 29,
+						"h": 50
+					},
+					"frame": {
+						"x": 92,
+						"y": 50,
+						"w": 29,
+						"h": 50
+					}
+				},
+				{
+					"filename": "water-advanced-10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 50,
+						"w": 89,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 98,
+						"w": 89,
+						"h": 89
+					}
+				},
+				{
+					"filename": "water-intermediate-8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 74,
+						"w": 29,
+						"h": 41
+					},
+					"frame": {
+						"x": 92,
+						"y": 102,
+						"w": 29,
+						"h": 41
+					}
+				},
+				{
+					"filename": "water-intermediate-7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 74,
+						"w": 29,
+						"h": 35
+					},
+					"frame": {
+						"x": 92,
+						"y": 145,
+						"w": 29,
+						"h": 35
+					}
+				},
+				{
+					"filename": "water-intermediate-6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 74,
+						"w": 29,
+						"h": 29
+					},
+					"frame": {
+						"x": 92,
+						"y": 182,
+						"w": 29,
+						"h": 29
+					}
+				},
+				{
+					"filename": "water-expert-10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 47,
+						"w": 83,
+						"h": 101
+					},
+					"frame": {
+						"x": 1,
+						"y": 189,
+						"w": 83,
+						"h": 101
+					}
+				},
+				{
+					"filename": "water-expert-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 41,
+						"w": 38,
+						"h": 110
+					},
+					"frame": {
+						"x": 86,
+						"y": 213,
+						"w": 38,
+						"h": 110
+					}
+				},
+				{
+					"filename": "water-advanced-9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 53,
+						"w": 83,
+						"h": 83
+					},
+					"frame": {
+						"x": 1,
+						"y": 292,
+						"w": 83,
+						"h": 83
+					}
+				},
+				{
+					"filename": "water-expert-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 38,
+						"w": 38,
+						"h": 110
+					},
+					"frame": {
+						"x": 86,
+						"y": 325,
+						"w": 38,
+						"h": 110
+					}
+				},
+				{
+					"filename": "water-advanced-8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 56,
+						"w": 83,
+						"h": 77
+					},
+					"frame": {
+						"x": 1,
+						"y": 377,
+						"w": 83,
+						"h": 77
+					}
+				},
+				{
+					"filename": "water-expert-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 41,
+						"w": 38,
+						"h": 107
+					},
+					"frame": {
+						"x": 86,
+						"y": 437,
+						"w": 38,
+						"h": 107
+					}
+				},
+				{
+					"filename": "water-beginner-6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 56,
+						"w": 80,
+						"h": 80
+					},
+					"frame": {
+						"x": 1,
+						"y": 456,
+						"w": 80,
+						"h": 80
+					}
+				},
+				{
+					"filename": "water-advanced-7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 56,
+						"w": 80,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 538,
+						"w": 80,
+						"h": 74
+					}
+				},
+				{
+					"filename": "water-expert-6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 44,
+						"w": 41,
+						"h": 104
+					},
+					"frame": {
+						"x": 83,
+						"y": 546,
+						"w": 41,
+						"h": 104
+					}
+				},
+				{
+					"filename": "water-expert-9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 38,
+						"w": 77,
+						"h": 113
+					},
+					"frame": {
+						"x": 1,
+						"y": 614,
+						"w": 77,
+						"h": 113
+					}
+				},
+				{
+					"filename": "water-expert-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 101,
+						"w": 41,
+						"h": 44
+					},
+					"frame": {
+						"x": 80,
+						"y": 652,
+						"w": 41,
+						"h": 44
+					}
+				},
+				{
+					"filename": "water-expert-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 41,
+						"w": 38,
+						"h": 107
+					},
+					"frame": {
+						"x": 80,
+						"y": 698,
+						"w": 38,
+						"h": 107
+					}
+				},
+				{
+					"filename": "water-advanced-6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 59,
+						"w": 77,
+						"h": 71
+					},
+					"frame": {
+						"x": 1,
+						"y": 729,
+						"w": 77,
+						"h": 71
+					}
+				},
+				{
+					"filename": "water-beginner-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 59,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 802,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "water-expert-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 77,
+						"w": 47,
+						"h": 68
+					},
+					"frame": {
+						"x": 77,
+						"y": 807,
+						"w": 47,
+						"h": 68
+					}
+				},
+				{
+					"filename": "water-beginner-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 77,
+						"w": 38,
+						"h": 38
+					},
+					"frame": {
+						"x": 77,
+						"y": 877,
+						"w": 38,
+						"h": 38
+					}
+				},
+				{
+					"filename": "water-advanced-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 62,
+						"w": 68,
+						"h": 68
+					},
+					"frame": {
+						"x": 1,
+						"y": 878,
+						"w": 68,
+						"h": 68
+					}
+				},
+				{
+					"filename": "water-advanced-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 62,
+						"w": 53,
+						"h": 56
+					},
+					"frame": {
+						"x": 71,
+						"y": 917,
+						"w": 53,
+						"h": 56
+					}
+				},
+				{
+					"filename": "water-beginner-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 62,
+						"w": 68,
+						"h": 68
+					},
+					"frame": {
+						"x": 1,
+						"y": 948,
+						"w": 68,
+						"h": 68
+					}
+				},
+				{
+					"filename": "water-expert-7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 47,
+						"w": 50,
+						"h": 101
+					},
+					"frame": {
+						"x": 71,
+						"y": 975,
+						"w": 50,
+						"h": 101
+					}
+				},
+				{
+					"filename": "water-expert-8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 65,
+						"h": 107
+					},
+					"frame": {
+						"x": 1,
+						"y": 1018,
+						"w": 65,
+						"h": 107
+					}
+				},
+				{
+					"filename": "water-beginner-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 68,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 68,
+						"y": 1078,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "water-advanced-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 59,
+						"w": 59,
+						"h": 59
+					},
+					"frame": {
+						"x": 1,
+						"y": 1127,
+						"w": 59,
+						"h": 59
+					}
+				},
+				{
+					"filename": "water-advanced-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 62,
+						"w": 50,
+						"h": 59
+					},
+					"frame": {
+						"x": 1,
+						"y": 1188,
+						"w": 50,
+						"h": 59
+					}
+				},
+				{
+					"filename": "water-advanced-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 71,
+						"w": 35,
+						"h": 41
+					},
+					"frame": {
+						"x": 53,
+						"y": 1188,
+						"w": 35,
+						"h": 41
+					}
+				},
+				{
+					"filename": "water-intermediate-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 65,
+						"w": 35,
+						"h": 23
+					},
+					"frame": {
+						"x": 53,
+						"y": 1231,
+						"w": 35,
+						"h": 23
+					}
+				},
+				{
+					"filename": "water-intermediate-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 71,
+						"w": 29,
+						"h": 20
+					},
+					"frame": {
+						"x": 90,
+						"y": 1136,
+						"w": 29,
+						"h": 20
+					}
+				},
+				{
+					"filename": "water-beginner-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 83,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 62,
+						"y": 1136,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "water-intermediate-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 86,
+						"w": 20,
+						"h": 17
+					},
+					"frame": {
+						"x": 62,
+						"y": 1164,
+						"w": 20,
+						"h": 17
+					}
+				},
+				{
+					"filename": "water-beginner-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 89,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 84,
+						"y": 1164,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "water-intermediate-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 77,
+						"w": 23,
+						"h": 23
+					},
+					"frame": {
+						"x": 100,
+						"y": 1158,
+						"w": 23,
+						"h": 23
+					}
+				},
+				{
+					"filename": "water-advanced-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 80,
+						"w": 20,
+						"h": 23
+					},
+					"frame": {
+						"x": 90,
+						"y": 1183,
+						"w": 20,
+						"h": 23
+					}
+				},
+				{
+					"filename": "water-intermediate-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 92,
+						"w": 11,
+						"h": 8
+					},
+					"frame": {
+						"x": 112,
+						"y": 1183,
+						"w": 11,
+						"h": 8
+					}
+				},
+				{
+					"filename": "water-intermediate-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 65,
+						"w": 17,
+						"h": 29
+					},
+					"frame": {
+						"x": 90,
+						"y": 1208,
+						"w": 17,
+						"h": 29
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:98fcda15d2bd859f720b264eff9b54f4:d498b4acaf6e2102db61a59cf3fb77c0:915b9e2c60291fd5f1d6c786f7274850$"
+	}
+}

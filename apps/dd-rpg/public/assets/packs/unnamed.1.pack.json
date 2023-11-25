@@ -1,0 +1,8 @@
+{
+	"preload": {
+	  "files": [
+			{ "type": "tilemapTiledJSON", "key": "unnamed_town_1", "url": "assets/tilemaps/unnamed.1.map.json" },
+			{ "type": "image", "key": "master_tileset", "url": "assets/tilesets/master.png" }
+		]
+	}
+}

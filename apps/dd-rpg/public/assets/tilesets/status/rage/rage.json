@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "rage.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 86,
+				"h": 49
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "rage-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 44,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 44,
+						"h": 47
+					}
+				},
+				{
+					"filename": "rage-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 44,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 44,
+						"h": 47
+					}
+				},
+				{
+					"filename": "rage-0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 10,
+						"w": 38,
+						"h": 41
+					},
+					"frame": {
+						"x": 47,
+						"y": 1,
+						"w": 38,
+						"h": 41
+					}
+				},
+				{
+					"filename": "rage-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 10,
+						"w": 38,
+						"h": 41
+					},
+					"frame": {
+						"x": 47,
+						"y": 1,
+						"w": 38,
+						"h": 41
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a10b26ec726df3a9b8ac67e84ff296df:7d453fda660075e4c1458f3cf633b8c0:08ea2e672027a40aa4b5f233fafc2059$"
+	}
+}

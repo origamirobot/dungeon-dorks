@@ -1,0 +1,8 @@
+{
+	"preload": {
+	  "files": [
+		{ "type": "audio", "key": "menu_highlight_sound", "url": "assets/sounds/menu_highlight.aif" },
+		{ "type": "audio", "key": "menu_selected_sound", "url": "assets/sounds/menu_select.aif" }
+  	]
+	}
+}

@@ -1,0 +1,1469 @@
+{
+	"textures": [
+		{
+			"image": "moira.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 241,
+				"h": 1429
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "moira-axe-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 41,
+						"w": 95,
+						"h": 95
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 95,
+						"h": 95
+					}
+				},
+				{
+					"filename": "moira-sword-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 41,
+						"w": 95,
+						"h": 95
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 95,
+						"h": 95
+					}
+				},
+				{
+					"filename": "moira-primed-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 44,
+						"w": 92,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 98,
+						"w": 92,
+						"h": 92
+					}
+				},
+				{
+					"filename": "moira-primed-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 44,
+						"w": 92,
+						"h": 92
+					},
+					"frame": {
+						"x": 98,
+						"y": 1,
+						"w": 92,
+						"h": 92
+					}
+				},
+				{
+					"filename": "moira-primed-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 47,
+						"w": 92,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 192,
+						"w": 92,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-slash-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 47,
+						"w": 80,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 283,
+						"w": 80,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-axe-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 47,
+						"w": 77,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 374,
+						"w": 77,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-sword-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 47,
+						"w": 77,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 374,
+						"w": 77,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-arrow-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 44,
+						"w": 71,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 465,
+						"w": 71,
+						"h": 92
+					}
+				},
+				{
+					"filename": "moira-arrow-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 44,
+						"w": 71,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 559,
+						"w": 71,
+						"h": 92
+					}
+				},
+				{
+					"filename": "moira-arrow-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 44,
+						"w": 68,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 653,
+						"w": 68,
+						"h": 92
+					}
+				},
+				{
+					"filename": "moira-slash-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 68,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 747,
+						"w": 68,
+						"h": 92
+					}
+				},
+				{
+					"filename": "moira-dodge-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 65,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 841,
+						"w": 65,
+						"h": 92
+					}
+				},
+				{
+					"filename": "moira-hit-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 65,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 935,
+						"w": 65,
+						"h": 92
+					}
+				},
+				{
+					"filename": "moira-dodge-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 41,
+						"w": 59,
+						"h": 95
+					},
+					"frame": {
+						"x": 1,
+						"y": 1029,
+						"w": 59,
+						"h": 95
+					}
+				},
+				{
+					"filename": "moira-hit-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 41,
+						"w": 59,
+						"h": 95
+					},
+					"frame": {
+						"x": 1,
+						"y": 1126,
+						"w": 59,
+						"h": 95
+					}
+				},
+				{
+					"filename": "moira-idle-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 44,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 1223,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "moira-idle-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 44,
+						"w": 59,
+						"h": 92
+					},
+					"frame": {
+						"x": 1,
+						"y": 1317,
+						"w": 59,
+						"h": 92
+					}
+				},
+				{
+					"filename": "moira-left-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 9,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 192,
+						"y": 1,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-agree-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 83,
+						"y": 283,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-cheer-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 56,
+						"h": 92
+					},
+					"frame": {
+						"x": 80,
+						"y": 374,
+						"w": 56,
+						"h": 92
+					}
+				},
+				{
+					"filename": "moira-slash-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 62,
+						"h": 89
+					},
+					"frame": {
+						"x": 74,
+						"y": 468,
+						"w": 62,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-axe-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 50,
+						"w": 77,
+						"h": 86
+					},
+					"frame": {
+						"x": 74,
+						"y": 559,
+						"w": 77,
+						"h": 86
+					}
+				},
+				{
+					"filename": "moira-sword-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 50,
+						"w": 77,
+						"h": 86
+					},
+					"frame": {
+						"x": 74,
+						"y": 559,
+						"w": 77,
+						"h": 86
+					}
+				},
+				{
+					"filename": "moira-cheer-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 41,
+						"w": 53,
+						"h": 95
+					},
+					"frame": {
+						"x": 62,
+						"y": 1029,
+						"w": 53,
+						"h": 95
+					}
+				},
+				{
+					"filename": "moira-dodge-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 62,
+						"y": 1126,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "moira-hit-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 62,
+						"y": 1220,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "moira-agree-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 62,
+						"y": 1314,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-down-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 62,
+						"y": 1314,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-agree-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 95,
+						"y": 98,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-cheer-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 95,
+						"y": 189,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-cry-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 150,
+						"y": 95,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-cry-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 150,
+						"y": 95,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-cry-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 150,
+						"y": 186,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-disagree-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 138,
+						"y": 280,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-disagree-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 138,
+						"y": 371,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-disagree-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 138,
+						"y": 462,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-idle-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 47,
+						"w": 59,
+						"h": 89
+					},
+					"frame": {
+						"x": 153,
+						"y": 553,
+						"w": 59,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-right-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 9,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 193,
+						"y": 277,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-left-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 12,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 193,
+						"y": 368,
+						"w": 47,
+						"h": 86
+					}
+				},
+				{
+					"filename": "moira-left-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 12,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 193,
+						"y": 456,
+						"w": 47,
+						"h": 86
+					}
+				},
+				{
+					"filename": "moira-laugh-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 71,
+						"y": 653,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-laugh-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 71,
+						"y": 744,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-laugh-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 126,
+						"y": 647,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-magic-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 56,
+						"h": 89
+					},
+					"frame": {
+						"x": 126,
+						"y": 738,
+						"w": 56,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-magic-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 56,
+						"h": 89
+					},
+					"frame": {
+						"x": 181,
+						"y": 644,
+						"w": 56,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-magic-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 47,
+						"w": 56,
+						"h": 89
+					},
+					"frame": {
+						"x": 184,
+						"y": 735,
+						"w": 56,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-up-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 68,
+						"y": 841,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-down-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 12,
+						"w": 53,
+						"h": 86
+					},
+					"frame": {
+						"x": 68,
+						"y": 932,
+						"w": 53,
+						"h": 86
+					}
+				},
+				{
+					"filename": "moira-down-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 12,
+						"w": 53,
+						"h": 86
+					},
+					"frame": {
+						"x": 123,
+						"y": 835,
+						"w": 53,
+						"h": 86
+					}
+				},
+				{
+					"filename": "moira-ready-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 50,
+						"w": 56,
+						"h": 86
+					},
+					"frame": {
+						"x": 123,
+						"y": 923,
+						"w": 56,
+						"h": 86
+					}
+				},
+				{
+					"filename": "moira-right-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 12,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 178,
+						"y": 829,
+						"w": 47,
+						"h": 86
+					}
+				},
+				{
+					"filename": "moira-right-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 12,
+						"w": 47,
+						"h": 86
+					},
+					"frame": {
+						"x": 181,
+						"y": 917,
+						"w": 47,
+						"h": 86
+					}
+				},
+				{
+					"filename": "moira-up-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 12,
+						"w": 53,
+						"h": 86
+					},
+					"frame": {
+						"x": 117,
+						"y": 1020,
+						"w": 53,
+						"h": 86
+					}
+				},
+				{
+					"filename": "moira-up-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 12,
+						"w": 53,
+						"h": 86
+					},
+					"frame": {
+						"x": 117,
+						"y": 1108,
+						"w": 53,
+						"h": 86
+					}
+				},
+				{
+					"filename": "moira-duck-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 53,
+						"w": 53,
+						"h": 83
+					},
+					"frame": {
+						"x": 117,
+						"y": 1196,
+						"w": 53,
+						"h": 83
+					}
+				},
+				{
+					"filename": "moira-duck-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 53,
+						"w": 53,
+						"h": 83
+					},
+					"frame": {
+						"x": 117,
+						"y": 1281,
+						"w": 53,
+						"h": 83
+					}
+				},
+				{
+					"filename": "moira-dead-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 83,
+						"w": 62,
+						"h": 59
+					},
+					"frame": {
+						"x": 117,
+						"y": 1366,
+						"w": 62,
+						"h": 59
+					}
+				},
+				{
+					"filename": "moira-dead-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 83,
+						"w": 62,
+						"h": 59
+					},
+					"frame": {
+						"x": 117,
+						"y": 1366,
+						"w": 62,
+						"h": 59
+					}
+				},
+				{
+					"filename": "moira-dead-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 83,
+						"w": 62,
+						"h": 59
+					},
+					"frame": {
+						"x": 117,
+						"y": 1366,
+						"w": 62,
+						"h": 59
+					}
+				},
+				{
+					"filename": "moira-hurt-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 53,
+						"w": 53,
+						"h": 83
+					},
+					"frame": {
+						"x": 172,
+						"y": 1011,
+						"w": 53,
+						"h": 83
+					}
+				},
+				{
+					"filename": "moira-hurt-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 53,
+						"w": 53,
+						"h": 83
+					},
+					"frame": {
+						"x": 172,
+						"y": 1096,
+						"w": 53,
+						"h": 83
+					}
+				},
+				{
+					"filename": "moira-ready-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 53,
+						"w": 56,
+						"h": 83
+					},
+					"frame": {
+						"x": 172,
+						"y": 1181,
+						"w": 56,
+						"h": 83
+					}
+				},
+				{
+					"filename": "moira-duck-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 56,
+						"w": 53,
+						"h": 80
+					},
+					"frame": {
+						"x": 172,
+						"y": 1266,
+						"w": 53,
+						"h": 80
+					}
+				},
+				{
+					"filename": "moira-hurt-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 56,
+						"w": 53,
+						"h": 80
+					},
+					"frame": {
+						"x": 181,
+						"y": 1348,
+						"w": 53,
+						"h": 80
+					}
+				},
+				{
+					"filename": "moira-spin-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 68,
+						"y": 841,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-spin-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 9,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 192,
+						"y": 1,
+						"w": 47,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-spin-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 53,
+						"h": 89
+					},
+					"frame": {
+						"x": 62,
+						"y": 1314,
+						"w": 53,
+						"h": 89
+					}
+				},
+				{
+					"filename": "moira-spin-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 9,
+						"w": 47,
+						"h": 89
+					},
+					"frame": {
+						"x": 193,
+						"y": 277,
+						"w": 47,
+						"h": 89
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ec1002e7a9b73cd24c1221607303a749:8dd1ddf3ca5bf787ecae932021d2c881:babc098750b0cabe04206effc25f558f$"
+	}
+}
